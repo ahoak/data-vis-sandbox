@@ -1,0 +1,9745 @@
+{
+    "Academic": [
+      {
+        "text": "limit",
+        "ratio": 1.437195070017006,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "data",
+        "ratio": 1.271402446296888
+      },
+      {
+        "text": "know",
+        "ratio": 1.2403451730556547,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 1.2050083486736387,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "stakehold",
+        "ratio": 1.1723349160849197,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 1.1603688981644995,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 1.1412866169712355,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 1.1102092789648952,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.0970039538846335,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 1.0970039538846335,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 1.0834875673258437
+      },
+      {
+        "text": "support",
+        "ratio": 1.0834875673258437,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "viz",
+        "ratio": 1.075534270988218
+      },
+      {
+        "text": "expect",
+        "ratio": 1.0696322897939365,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 1.0696322897939365,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 1.0696322897939365,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "build",
+        "ratio": 1.055406237184026,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 1.055406237184026,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "job",
+        "ratio": 1.055406237184026,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 1.055406237184026,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "well",
+        "ratio": 1.0407726135880457
+      },
+      {
+        "text": "sometim",
+        "ratio": 1.0407726135880457,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 1.0407726135880457,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 1.0307908215313115,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 1.0256886098880984,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "prep",
+        "ratio": 1.0256886098880984,
+        "alias": [
+          "prepping"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 1.0256886098880984,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 1.0256886098880984,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 1.0186463470437905
+      },
+      {
+        "text": "access",
+        "ratio": 1.0120743561468646,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 1.010103968304261
+      },
+      {
+        "text": "design",
+        "ratio": 1.000782044353346,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "resourc",
+        "ratio": 0.9939590815437487,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "think",
+        "ratio": 0.9939590815437487,
+        "alias": [
+          "thinking"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 0.9928034654511755,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "like",
+        "ratio": 0.9928034654511755
+      },
+      {
+        "text": "tool",
+        "ratio": 0.9804469408208207,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "everyth",
+        "ratio": 0.97718242998562,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "alwai",
+        "ratio": 0.97718242998562,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 0.9660413728975379,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 0.9596870549332861,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "valu",
+        "ratio": 0.9522899623142932,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "feedback",
+        "ratio": 0.9413655899521295
+      },
+      {
+        "text": "engin",
+        "ratio": 0.9413655899521295,
+        "alias": [
+          "engineering",
+          "engineers",
+          "engineer",
+          "engine"
+        ]
+      },
+      {
+        "text": "time",
+        "ratio": 0.927913857585514,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 0.9260390311800769,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 0.9227431847370368,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "librari",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "library",
+          "libraries"
+        ]
+      },
+      {
+        "text": "excel",
+        "ratio": 0.9220830671229814
+      },
+      {
+        "text": "spend",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "spending"
+        ]
+      },
+      {
+        "text": "interest",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "appreci",
+        "ratio": 0.9016661622519674,
+        "alias": [
+          "appreciation",
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciates"
+        ]
+      },
+      {
+        "text": "dataviz",
+        "ratio": 0.9016661622519674
+      },
+      {
+        "text": "help",
+        "ratio": 0.9016661622519674
+      },
+      {
+        "text": "result",
+        "ratio": 0.9016661622519674,
+        "alias": [
+          "results"
+        ]
+      },
+      {
+        "text": "import",
+        "ratio": 0.9016661622519674,
+        "alias": [
+          "importance",
+          "important"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 0.8962968510194281,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 0.8848995891935068
+      },
+      {
+        "text": "good",
+        "ratio": 0.8809012631154036
+      },
+      {
+        "text": "better",
+        "ratio": 0.8798864888403738
+      },
+      {
+        "text": "gener",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "generally",
+          "general",
+          "generation"
+        ]
+      },
+      {
+        "text": "issu",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "issue",
+          "issues"
+        ]
+      },
+      {
+        "text": "process",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "processing"
+        ]
+      },
+      {
+        "text": "softwar",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "software"
+        ]
+      },
+      {
+        "text": "base",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "based"
+        ]
+      },
+      {
+        "text": "prioriti",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "task",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "tasks"
+        ]
+      },
+      {
+        "text": "idea",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "ideas"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 0.8726301074979599,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "level",
+        "ratio": 0.8564334118918976
+      },
+      {
+        "text": "web",
+        "ratio": 0.8564334118918976
+      },
+      {
+        "text": "execut",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "execution",
+          "executives",
+          "execute"
+        ]
+      },
+      {
+        "text": "creativ",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "creative",
+          "creativity"
+        ]
+      },
+      {
+        "text": "proper",
+        "ratio": 0.8564334118918976
+      },
+      {
+        "text": "question",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "questions",
+          "questioning"
+        ]
+      },
+      {
+        "text": "inform",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "avail",
+        "ratio": 0.833379557505737,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "ask",
+        "ratio": 0.833379557505737,
+        "alias": [
+          "asked",
+          "asks",
+          "asking"
+        ]
+      },
+      {
+        "text": "scienc",
+        "ratio": 0.8308671727993658,
+        "alias": [
+          "science"
+        ]
+      },
+      {
+        "text": "difficult",
+        "ratio": 0.8308671727993658
+      },
+      {
+        "text": "given",
+        "ratio": 0.8308671727993658
+      },
+      {
+        "text": "format",
+        "ratio": 0.8308671727993658,
+        "alias": [
+          "formats",
+          "formatting"
+        ]
+      },
+      {
+        "text": "exampl",
+        "ratio": 0.8308671727993658,
+        "alias": [
+          "example",
+          "examples"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 0.8263533506463573,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 0.8046443641745465,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "comput",
+        "ratio": 0.8025318542295188,
+        "alias": [
+          "computer",
+          "computation",
+          "computers"
+        ]
+      },
+      {
+        "text": "first",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "keep",
+        "ratio": 0.8025318542295188,
+        "alias": [
+          "keeping"
+        ]
+      },
+      {
+        "text": "yet",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "produc",
+        "ratio": 0.8025318542295188,
+        "alias": [
+          "produce",
+          "produced",
+          "producing"
+        ]
+      },
+      {
+        "text": "within",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "meet",
+        "ratio": 0.8025318542295188,
+        "alias": [
+          "meeting",
+          "meetings"
+        ]
+      },
+      {
+        "text": "place",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "python",
+        "ratio": 0.7892828320326611,
+        "alias": [
+          "pythonic"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 0.7771970016112578
+      },
+      {
+        "text": "effect",
+        "ratio": 0.7731155061926563,
+        "alias": [
+          "effective",
+          "effects",
+          "effectiveness",
+          "effectively"
+        ]
+      },
+      {
+        "text": "educ",
+        "ratio": 0.7731155061926563,
+        "alias": [
+          "educational",
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "text": "strong",
+        "ratio": 0.7703770296817171
+      },
+      {
+        "text": "frustrat",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "frustrating",
+          "frustration"
+        ]
+      },
+      {
+        "text": "cowork",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "coworkers",
+          "coworker"
+        ]
+      },
+      {
+        "text": "scientist",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "scientists"
+        ]
+      },
+      {
+        "text": "pretti",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "pretty"
+        ]
+      },
+      {
+        "text": "opinion",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "opinions",
+          "opinionated"
+        ]
+      },
+      {
+        "text": "public",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "publication"
+        ]
+      },
+      {
+        "text": "anyon",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "anyone"
+        ]
+      },
+      {
+        "text": "mentor",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "mentoring",
+          "mentors"
+        ]
+      },
+      {
+        "text": "unless",
+        "ratio": 0.7703770296817171
+      },
+      {
+        "text": "vizz",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "vizzing",
+          "vizzes"
+        ]
+      },
+      {
+        "text": "someon",
+        "ratio": 0.7703770296817171,
+        "alias": [
+          "someone"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 0.7636972891178395,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 0.7630514432567399,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "person",
+        "ratio": 0.7559970639318182,
+        "alias": [
+          "personal",
+          "personally"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 0.7542834596865227
+      },
+      {
+        "text": "expert",
+        "ratio": 0.7377360158389904,
+        "alias": [
+          "experts"
+        ]
+      },
+      {
+        "text": "slow",
+        "ratio": 0.7180719116999018,
+        "alias": [
+          "slows",
+          "slowness"
+        ]
+      },
+      {
+        "text": "dedic",
+        "ratio": 0.7180719116999018,
+        "alias": [
+          "dedicated",
+          "dedicate"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 0.717708957402516,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "principl",
+        "ratio": 0.6728784453815743,
+        "alias": [
+          "principles"
+        ]
+      },
+      {
+        "text": "free",
+        "ratio": 0.6728784453815743
+      },
+      {
+        "text": "research",
+        "ratio": 0.6707861039006677,
+        "alias": [
+          "researchers"
+        ]
+      },
+      {
+        "text": "prefer",
+        "ratio": 0.6459184085441402,
+        "alias": [
+          "prefers"
+        ]
+      },
+      {
+        "text": "academ",
+        "ratio": 0.6459184085441402,
+        "alias": [
+          "academics",
+          "academic"
+        ]
+      },
+      {
+        "text": "care",
+        "ratio": 0.6371356225440612,
+        "alias": [
+          "caring",
+          "cares"
+        ]
+      },
+      {
+        "text": "practic",
+        "ratio": 0.631193587169444,
+        "alias": [
+          "practices",
+          "practice"
+        ]
+      },
+      {
+        "text": "train",
+        "ratio": 0.6241479452623312,
+        "alias": [
+          "trained",
+          "training"
+        ]
+      }
+    ],
+    "Leadership (Manager, Director, VP, etc)": [
+      {
+        "text": "time",
+        "ratio": 0.8748652246053177,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "data",
+        "ratio": 1.0523794932144586
+      },
+      {
+        "text": "lack",
+        "ratio": 0.8395745041336619,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 0.8859658771476735
+      },
+      {
+        "text": "tool",
+        "ratio": 1.009065703079435,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 1.2142857789649095,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 1.000782044353346,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 0.9586342466792935,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 0.9728216273302714,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "viz",
+        "ratio": 0.8682952287458495
+      },
+      {
+        "text": "learn",
+        "ratio": 1.0031139952786268,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 1.0046066701214487,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "access",
+        "ratio": 0.8980000672049693,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 0.8355405606238534,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "client",
+        "ratio": 0.8809012631154036,
+        "alias": [
+          "clients"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 0.9146069371162486,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "think",
+        "ratio": 0.7816844972542605,
+        "alias": [
+          "thinking"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 1.0485548347929308,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 0.9522899623142932,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "valu",
+        "ratio": 0.9522899623142932,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 0.8848995891935068,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 0.9197769673279862,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 0.9308488999421696,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "focu",
+        "ratio": 0.8193132657322101,
+        "alias": [
+          "focus"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 1.2050083486736387,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 0.8968273452241546,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 1.072199341535501,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 1.3418976124499646,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "custom",
+        "ratio": 0.8689928948285169,
+        "alias": [
+          "customer",
+          "customers",
+          "customization",
+          "customize",
+          "customizing"
+        ]
+      },
+      {
+        "text": "appreci",
+        "ratio": 0.816455202220817,
+        "alias": [
+          "appreciation",
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciates"
+        ]
+      },
+      {
+        "text": "thing",
+        "ratio": 1.0615447058499718,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "actual",
+        "ratio": 0.775497122736057,
+        "alias": [
+          "actually"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 0.9287570460781688,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "literaci",
+        "ratio": 0.9146452137520098,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "prepar",
+        "ratio": 0.775497122736057,
+        "alias": [
+          "preparation",
+          "prepared",
+          "preparing"
+        ]
+      },
+      {
+        "text": "scienc",
+        "ratio": 0.7523469926965916,
+        "alias": [
+          "science"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 1.1892670551582885,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "build",
+        "ratio": 0.9556662419859101,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "right",
+        "ratio": 0.8689928948285169
+      },
+      {
+        "text": "softwar",
+        "ratio": 0.7967337926747894,
+        "alias": [
+          "software"
+        ]
+      },
+      {
+        "text": "dirti",
+        "ratio": 0.7266894719628028,
+        "alias": [
+          "dirty"
+        ]
+      },
+      {
+        "text": "interest",
+        "ratio": 0.8349426301548473,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "educ",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "educational",
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "text": "platform",
+        "ratio": 0.8564334118918976
+      },
+      {
+        "text": "issu",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "issue",
+          "issues"
+        ]
+      },
+      {
+        "text": "part",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "parts"
+        ]
+      },
+      {
+        "text": "job",
+        "ratio": 1.055406237184026,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 0.8798864888403738
+      },
+      {
+        "text": "dataviz",
+        "ratio": 0.9016661622519674
+      },
+      {
+        "text": "poor",
+        "ratio": 0.9016661622519674
+      },
+      {
+        "text": "still",
+        "ratio": 1.010103968304261
+      },
+      {
+        "text": "fund",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "funds",
+          "funding"
+        ]
+      },
+      {
+        "text": "set",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "sets",
+          "setting"
+        ]
+      },
+      {
+        "text": "web",
+        "ratio": 0.8564334118918976
+      },
+      {
+        "text": "python",
+        "ratio": 0.9413655899521295,
+        "alias": [
+          "pythonic"
+        ]
+      },
+      {
+        "text": "love",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "manag",
+        "ratio": 1.0834875673258437,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "speed",
+        "ratio": 0.7703770296817171
+      },
+      {
+        "text": "find",
+        "ratio": 1.0970039538846335,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "curv",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "curve"
+        ]
+      },
+      {
+        "text": "consist",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "consistent",
+          "consistency"
+        ]
+      },
+      {
+        "text": "across",
+        "ratio": 0.8025318542295188
+      },
+      {
+        "text": "stakehold",
+        "ratio": 1.1723349160849197,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "avail",
+        "ratio": 0.9939590815437487,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "spend",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "spending"
+        ]
+      },
+      {
+        "text": "tableau",
+        "ratio": 1.0696322897939365
+      },
+      {
+        "text": "mani",
+        "ratio": 1.1603688981644995,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "engin",
+        "ratio": 0.9413655899521295,
+        "alias": [
+          "engineering",
+          "engineers",
+          "engineer",
+          "engine"
+        ]
+      },
+      {
+        "text": "expect",
+        "ratio": 1.0696322897939365,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 1.055406237184026
+      },
+      {
+        "text": "expert",
+        "ratio": 0.8798864888403738,
+        "alias": [
+          "experts"
+        ]
+      },
+      {
+        "text": "like",
+        "ratio": 1.1841015438712725
+      },
+      {
+        "text": "sourc",
+        "ratio": 0.9413655899521295,
+        "alias": [
+          "sources",
+          "sourcing",
+          "source"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 0.9596870549332861,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "easi",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "easy"
+        ]
+      },
+      {
+        "text": "product",
+        "ratio": 1.0256886098880984,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "feedback",
+        "ratio": 0.9413655899521295
+      },
+      {
+        "text": "know",
+        "ratio": 1.2403451730556547,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 1.2070856411459234
+      },
+      {
+        "text": "type",
+        "ratio": 0.9016661622519674,
+        "alias": [
+          "types"
+        ]
+      },
+      {
+        "text": "busi",
+        "ratio": 0.9016661622519674,
+        "alias": [
+          "business"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 1.0834875673258437,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "expertis",
+        "ratio": 0.8564334118918976,
+        "alias": [
+          "expertise"
+        ]
+      },
+      {
+        "text": "present",
+        "ratio": 0.9220830671229814,
+        "alias": [
+          "presenting",
+          "presentations",
+          "presentation",
+          "presented"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 1.0407726135880457,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "gain",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "gaining"
+        ]
+      },
+      {
+        "text": "bui",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "buy"
+        ]
+      },
+      {
+        "text": "creativ",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "creative",
+          "creativity"
+        ]
+      },
+      {
+        "text": "end",
+        "ratio": 0.9650983072840081
+      },
+      {
+        "text": "qualiti",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "quality"
+        ]
+      },
+      {
+        "text": "basic",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "basically"
+        ]
+      },
+      {
+        "text": "principl",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "principles"
+        ]
+      },
+      {
+        "text": "tabl",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "tables",
+          "table"
+        ]
+      },
+      {
+        "text": "gener",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "generally",
+          "general",
+          "generation"
+        ]
+      },
+      {
+        "text": "low",
+        "ratio": 1.0710506280533065
+      },
+      {
+        "text": "comput",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "computer",
+          "computation",
+          "computers"
+        ]
+      },
+      {
+        "text": "larg",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "large",
+          "largely"
+        ]
+      },
+      {
+        "text": "usual",
+        "ratio": 0.9650983072840081,
+        "alias": [
+          "usually"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 1.2089151196781314,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "javascript",
+        "ratio": 0.894835650819294
+      },
+      {
+        "text": "vizz",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "vizzing",
+          "vizzes"
+        ]
+      },
+      {
+        "text": "put",
+        "ratio": 0.9321852630774633
+      },
+      {
+        "text": "dai",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "day"
+        ]
+      },
+      {
+        "text": "long",
+        "ratio": 1.093448347871598
+      },
+      {
+        "text": "result",
+        "ratio": 1.0473352605721167,
+        "alias": [
+          "results"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 1.2259128851745453,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "program",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "programming",
+          "programs"
+        ]
+      },
+      {
+        "text": "slow",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "slows",
+          "slowness"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 1.1913942127095274,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "report",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "reports",
+          "reporting"
+        ]
+      },
+      {
+        "text": "excel",
+        "ratio": 1.0710506280533065
+      },
+      {
+        "text": "experi",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "cowork",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "coworkers",
+          "coworker"
+        ]
+      },
+      {
+        "text": "wish",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "wishes"
+        ]
+      },
+      {
+        "text": "govern",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "governance",
+          "government"
+        ]
+      },
+      {
+        "text": "consum",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "consumed",
+          "consumers",
+          "consuming"
+        ]
+      },
+      {
+        "text": "stori",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "story",
+          "stories"
+        ]
+      },
+      {
+        "text": "addit",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "additional",
+          "addition"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 1.1913942127095274,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "share",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "shared",
+          "sharing"
+        ]
+      },
+      {
+        "text": "around",
+        "ratio": 1.0220369618417573
+      },
+      {
+        "text": "effect",
+        "ratio": 1.0710506280533065,
+        "alias": [
+          "effective",
+          "effects",
+          "effectiveness",
+          "effectively"
+        ]
+      },
+      {
+        "text": "everyth",
+        "ratio": 1.13505159423903,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "request",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "requested",
+          "requesting",
+          "requests"
+        ]
+      },
+      {
+        "text": "integr",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "integrity",
+          "integrated",
+          "integration",
+          "integrate"
+        ]
+      },
+      {
+        "text": "produc",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "produce",
+          "produced",
+          "producing"
+        ]
+      },
+      {
+        "text": "technolog",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "technology",
+          "technologies",
+          "technological"
+        ]
+      },
+      {
+        "text": "term",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "terms"
+        ]
+      },
+      {
+        "text": "fulli",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "fully"
+        ]
+      },
+      {
+        "text": "strong",
+        "ratio": 0.894835650819294
+      },
+      {
+        "text": "connect",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "connection",
+          "connecting",
+          "connections"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 1.2742309404412806,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "budget",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "budgets"
+        ]
+      },
+      {
+        "text": "see",
+        "ratio": 1.093448347871598,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "level",
+        "ratio": 0.9947949120838934
+      },
+      {
+        "text": "academ",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "academics",
+          "academic"
+        ]
+      },
+      {
+        "text": "standard",
+        "ratio": 0.9650983072840081,
+        "alias": [
+          "standards",
+          "standardization"
+        ]
+      },
+      {
+        "text": "option",
+        "ratio": 1.1147297456920258,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 1.1913942127095274,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "execut",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "execution",
+          "executives",
+          "execute"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 1.2089151196781314,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "document",
+        "ratio": 0.9650983072840081,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "respons",
+        "ratio": 0.9321852630774633,
+        "alias": [
+          "responses",
+          "responsible",
+          "responsibilities"
+        ]
+      },
+      {
+        "text": "less",
+        "ratio": 1.13505159423903
+      },
+      {
+        "text": "ask",
+        "ratio": 1.1545386055817604,
+        "alias": [
+          "asked",
+          "asks",
+          "asking"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 1.3336859361878006
+      },
+      {
+        "text": "explain",
+        "ratio": 0.9650983072840081,
+        "alias": [
+          "explaining"
+        ]
+      },
+      {
+        "text": "therefor",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "therefore"
+        ]
+      },
+      {
+        "text": "pretti",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "pretty"
+        ]
+      },
+      {
+        "text": "collabor",
+        "ratio": 1.0473352605721167,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "resourc",
+        "ratio": 1.1545386055817604,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 1.4407297172793252,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 1.13505159423903,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "infrastructur",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "infrastructure"
+        ]
+      },
+      {
+        "text": "effort",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "efforts"
+        ]
+      },
+      {
+        "text": "behind",
+        "ratio": 0.9321852630774633
+      },
+      {
+        "text": "leadership",
+        "ratio": 1.0473352605721167
+      },
+      {
+        "text": "team",
+        "ratio": 1.1732917870696813,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "dashboard",
+        "ratio": 1.1147297456920258,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "proper",
+        "ratio": 0.9947949120838934
+      },
+      {
+        "text": "prioriti",
+        "ratio": 1.0220369618417573,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "complet",
+        "ratio": 0.9947949120838934,
+        "alias": [
+          "complete",
+          "completing",
+          "completeness"
+        ]
+      },
+      {
+        "text": "properli",
+        "ratio": 0.9650983072840081,
+        "alias": [
+          "properly"
+        ]
+      },
+      {
+        "text": "test",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "tested",
+          "testing"
+        ]
+      },
+      {
+        "text": "dataset",
+        "ratio": 0.894835650819294,
+        "alias": [
+          "datasets"
+        ]
+      },
+      {
+        "text": "train",
+        "ratio": 1.0710506280533065,
+        "alias": [
+          "trained",
+          "training"
+        ]
+      },
+      {
+        "text": "board",
+        "ratio": 0.894835650819294
+      },
+      {
+        "text": "alwai",
+        "ratio": 1.13505159423903,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "well",
+        "ratio": 1.2089151196781314
+      }
+    ],
+    "Developer": [
+      {
+        "text": "time",
+        "ratio": 0.9911445556075597,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "data",
+        "ratio": 1.2250100888090971
+      },
+      {
+        "text": "lack",
+        "ratio": 0.967827907953696,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 1.0636072635460654,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 0.8793428739632844,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 1.110675089219637
+      },
+      {
+        "text": "work",
+        "ratio": 0.8957719582636925,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 0.9236651022843592,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "tool",
+        "ratio": 1.2450289564341792,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 0.7080631054827297,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "focu",
+        "ratio": 0.6745778585513048,
+        "alias": [
+          "focus"
+        ]
+      },
+      {
+        "text": "project",
+        "ratio": 0.7572941912644707,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 0.784063618112883,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 0.8562468634609445,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "viz",
+        "ratio": 0.9400472586064995
+      },
+      {
+        "text": "feel",
+        "ratio": 0.7283972157318153,
+        "alias": [
+          "feeling",
+          "feels"
+        ]
+      },
+      {
+        "text": "try",
+        "ratio": 0.7516493802641948,
+        "alias": [
+          "trying"
+        ]
+      },
+      {
+        "text": "like",
+        "ratio": 0.8677382034278606
+      },
+      {
+        "text": "peopl",
+        "ratio": 1.0398130226200846,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 0.8230553131490588,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 1.0532112507468465,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 0.8609653325159217,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 0.8168330990587586,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 0.8283180554808491,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "tableau",
+        "ratio": 0.8394831365840744
+      },
+      {
+        "text": "product",
+        "ratio": 0.8049946692926593,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "build",
+        "ratio": 0.8283180554808491,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 1.0464190225597358,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 1.2040205819881762,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 0.9734643075558918,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "client",
+        "ratio": 0.9293224293692557,
+        "alias": [
+          "clients"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 1.0307901768394505,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 0.8609653325159217,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "everyth",
+        "ratio": 0.7669253996597384,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "stakehold",
+        "ratio": 0.9200875869889759,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "expect",
+        "ratio": 0.8394831365840744,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "chang",
+        "ratio": 0.8467388000754152,
+        "alias": [
+          "changing",
+          "change",
+          "changed",
+          "changes"
+        ]
+      },
+      {
+        "text": "fulli",
+        "ratio": 0.6562726110467643,
+        "alias": [
+          "fully"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 0.8866185443088657,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 0.9885008213322455,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "avail",
+        "ratio": 0.8467388000754152,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 0.8604923864119045
+      },
+      {
+        "text": "access",
+        "ratio": 1.0282981124179966,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "ask",
+        "ratio": 0.8467388000754152,
+        "alias": [
+          "asked",
+          "asks",
+          "asking"
+        ]
+      },
+      {
+        "text": "alwai",
+        "ratio": 0.8324470228047147,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 1.0473146065214898,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "resist",
+        "ratio": 0.6562726110467643,
+        "alias": [
+          "resistance"
+        ]
+      },
+      {
+        "text": "less",
+        "ratio": 0.8324470228047147
+      },
+      {
+        "text": "learn",
+        "ratio": 1.262448719455697,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "report",
+        "ratio": 0.7495620731249146,
+        "alias": [
+          "reports",
+          "reporting"
+        ]
+      },
+      {
+        "text": "rather",
+        "ratio": 0.683664822718048
+      },
+      {
+        "text": "think",
+        "ratio": 0.8467388000754152,
+        "alias": [
+          "thinking"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 0.9781254813182105
+      },
+      {
+        "text": "job",
+        "ratio": 0.8990847082732525,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "better",
+        "ratio": 0.7495620731249146
+      },
+      {
+        "text": "resourc",
+        "ratio": 0.9406718000213035,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "applic",
+        "ratio": 0.7595072049847641,
+        "alias": [
+          "applications",
+          "applicable",
+          "application"
+        ]
+      },
+      {
+        "text": "well",
+        "ratio": 0.9849756051488444
+      },
+      {
+        "text": "seen",
+        "ratio": 0.7595072049847641
+      },
+      {
+        "text": "manag",
+        "ratio": 1.02540056143372,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "frustrat",
+        "ratio": 0.7290762373037082,
+        "alias": [
+          "frustrating",
+          "frustration"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 0.9988247034713684
+      },
+      {
+        "text": "answer",
+        "ratio": 0.7290762373037082,
+        "alias": [
+          "answers",
+          "answered"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 1.1206205077893527,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 1.02540056143372
+      },
+      {
+        "text": "properli",
+        "ratio": 0.7863234347654483,
+        "alias": [
+          "properly"
+        ]
+      },
+      {
+        "text": "level",
+        "ratio": 0.8105190385820511
+      },
+      {
+        "text": "team",
+        "ratio": 0.9559511409641556,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "collabor",
+        "ratio": 0.8533268095368037,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "dashboard",
+        "ratio": 0.9082371358981377,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 1.1206205077893527
+      },
+      {
+        "text": "poor",
+        "ratio": 0.8533268095368037
+      },
+      {
+        "text": "abl",
+        "ratio": 0.9559511409641556,
+        "alias": [
+          "able"
+        ]
+      },
+      {
+        "text": "custom",
+        "ratio": 0.9082371358981377,
+        "alias": [
+          "customer",
+          "customers",
+          "customization",
+          "customize",
+          "customizing"
+        ]
+      },
+      {
+        "text": "help",
+        "ratio": 0.8533268095368037
+      },
+      {
+        "text": "leadership",
+        "ratio": 0.8533268095368037
+      },
+      {
+        "text": "expert",
+        "ratio": 0.832714769290499,
+        "alias": [
+          "experts"
+        ]
+      },
+      {
+        "text": "research",
+        "ratio": 0.8533268095368037,
+        "alias": [
+          "researchers"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 0.8908979055788327,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.0381923190725688,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "sinc",
+        "ratio": 0.7595072049847641,
+        "alias": [
+          "since"
+        ]
+      },
+      {
+        "text": "amount",
+        "ratio": 0.832714769290499,
+        "alias": [
+          "amounts"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 0.9247945639131483,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "expertis",
+        "ratio": 0.8105190385820511,
+        "alias": [
+          "expertise"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 0.9988247034713684,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 0.9849756051488444,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 1.142372401359892
+      },
+      {
+        "text": "excel",
+        "ratio": 0.8726491408203528
+      },
+      {
+        "text": "thing",
+        "ratio": 1.109484702356821,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "come",
+        "ratio": 0.7595072049847641,
+        "alias": [
+          "coming"
+        ]
+      },
+      {
+        "text": "realli",
+        "ratio": 0.832714769290499,
+        "alias": [
+          "really"
+        ]
+      },
+      {
+        "text": "far",
+        "ratio": 0.7863234347654483
+      },
+      {
+        "text": "someth",
+        "ratio": 0.7595072049847641,
+        "alias": [
+          "something"
+        ]
+      },
+      {
+        "text": "set",
+        "ratio": 0.832714769290499,
+        "alias": [
+          "sets",
+          "setting"
+        ]
+      },
+      {
+        "text": "solut",
+        "ratio": 0.8533268095368037,
+        "alias": [
+          "solutions",
+          "solution"
+        ]
+      },
+      {
+        "text": "part",
+        "ratio": 0.8726491408203528,
+        "alias": [
+          "parts"
+        ]
+      },
+      {
+        "text": "implement",
+        "ratio": 0.8726491408203528,
+        "alias": [
+          "implementation",
+          "implementing"
+        ]
+      },
+      {
+        "text": "also",
+        "ratio": 0.7863234347654483
+      },
+      {
+        "text": "complet",
+        "ratio": 0.8105190385820511,
+        "alias": [
+          "complete",
+          "completing",
+          "completeness"
+        ]
+      },
+      {
+        "text": "spent",
+        "ratio": 0.7290762373037082
+      },
+      {
+        "text": "busi",
+        "ratio": 0.8533268095368037,
+        "alias": [
+          "business"
+        ]
+      },
+      {
+        "text": "person",
+        "ratio": 0.8533268095368037,
+        "alias": [
+          "personal",
+          "personally"
+        ]
+      },
+      {
+        "text": "board",
+        "ratio": 0.7290762373037082
+      },
+      {
+        "text": "support",
+        "ratio": 1.02540056143372,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "actual",
+        "ratio": 0.8105190385820511,
+        "alias": [
+          "actually"
+        ]
+      },
+      {
+        "text": "without",
+        "ratio": 0.7290762373037082
+      },
+      {
+        "text": "see",
+        "ratio": 0.8908979055788327,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "technolog",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "technology",
+          "technologies",
+          "technological"
+        ]
+      },
+      {
+        "text": "constraint",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "constraints"
+        ]
+      },
+      {
+        "text": "proper",
+        "ratio": 0.9488805387740469
+      },
+      {
+        "text": "attent",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "attention"
+        ]
+      },
+      {
+        "text": "infrastructur",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "infrastructure"
+        ]
+      },
+      {
+        "text": "place",
+        "ratio": 0.8891606138327086
+      },
+      {
+        "text": "dataset",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "datasets"
+        ]
+      },
+      {
+        "text": "compani",
+        "ratio": 0.998995907856953,
+        "alias": [
+          "company"
+        ]
+      },
+      {
+        "text": "sourc",
+        "ratio": 1.0429806634983012,
+        "alias": [
+          "sources",
+          "sourcing",
+          "source"
+        ]
+      },
+      {
+        "text": "piec",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "pieces",
+          "piece"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 1.1531181112389302,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "train",
+        "ratio": 1.0216167017506779,
+        "alias": [
+          "trained",
+          "training"
+        ]
+      },
+      {
+        "text": "choic",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "choice",
+          "choices"
+        ]
+      },
+      {
+        "text": "creativ",
+        "ratio": 0.9488805387740469,
+        "alias": [
+          "creative",
+          "creativity"
+        ]
+      },
+      {
+        "text": "prototyp",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "prototyping",
+          "prototype",
+          "prototypes"
+        ]
+      },
+      {
+        "text": "simpl",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "simple"
+        ]
+      },
+      {
+        "text": "databas",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "database",
+          "databases"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 1.0632798266568773,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 1.2300500706167303,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "low",
+        "ratio": 1.0216167017506779
+      },
+      {
+        "text": "literaci",
+        "ratio": 1.119138959729576,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "request",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "requested",
+          "requesting",
+          "requests"
+        ]
+      },
+      {
+        "text": "web",
+        "ratio": 0.9488805387740469
+      },
+      {
+        "text": "base",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "based"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 1.1364058749355173,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "outsid",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "outside"
+        ]
+      },
+      {
+        "text": "behind",
+        "ratio": 0.8891606138327086
+      },
+      {
+        "text": "fund",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "funds",
+          "funding"
+        ]
+      },
+      {
+        "text": "respons",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "responses",
+          "responsible",
+          "responsibilities"
+        ]
+      },
+      {
+        "text": "usual",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "usually"
+        ]
+      },
+      {
+        "text": "cowork",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "coworkers",
+          "coworker"
+        ]
+      },
+      {
+        "text": "allow",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "allowed",
+          "allows"
+        ]
+      },
+      {
+        "text": "option",
+        "ratio": 1.0632798266568773,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "connect",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "connection",
+          "connecting",
+          "connections"
+        ]
+      },
+      {
+        "text": "exist",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "existing",
+          "exists"
+        ]
+      },
+      {
+        "text": "invest",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "investing",
+          "investment"
+        ]
+      },
+      {
+        "text": "hour",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "hours"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.998995907856953
+      },
+      {
+        "text": "task",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "tasks"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 1.1364058749355173,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "convinc",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "convince",
+          "convincing"
+        ]
+      },
+      {
+        "text": "standard",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "standards",
+          "standardization"
+        ]
+      },
+      {
+        "text": "bui",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "buy"
+        ]
+      },
+      {
+        "text": "noth",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "nothing"
+        ]
+      },
+      {
+        "text": "easi",
+        "ratio": 0.9488805387740469,
+        "alias": [
+          "easy"
+        ]
+      },
+      {
+        "text": "iter",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "iteration",
+          "iterations",
+          "iterative",
+          "iterate"
+        ]
+      },
+      {
+        "text": "power",
+        "ratio": 1.0216167017506779,
+        "alias": [
+          "powerful"
+        ]
+      },
+      {
+        "text": "slow",
+        "ratio": 0.9488805387740469,
+        "alias": [
+          "slows",
+          "slowness"
+        ]
+      },
+      {
+        "text": "educ",
+        "ratio": 1.0216167017506779,
+        "alias": [
+          "educational",
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "text": "type",
+        "ratio": 0.998995907856953,
+        "alias": [
+          "types"
+        ]
+      },
+      {
+        "text": "tabl",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "tables",
+          "table"
+        ]
+      },
+      {
+        "text": "dataviz",
+        "ratio": 0.998995907856953
+      },
+      {
+        "text": "love",
+        "ratio": 0.8891606138327086
+      },
+      {
+        "text": "wrangl",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "wrangling",
+          "wrangle"
+        ]
+      },
+      {
+        "text": "separ",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "separate",
+          "separation"
+        ]
+      },
+      {
+        "text": "field",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "fields"
+        ]
+      },
+      {
+        "text": "technic",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "technical",
+          "technically"
+        ]
+      },
+      {
+        "text": "version",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "versions"
+        ]
+      },
+      {
+        "text": "collect",
+        "ratio": 0.8891606138327086,
+        "alias": [
+          "collection"
+        ]
+      },
+      {
+        "text": "experi",
+        "ratio": 0.9748652422918824,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "inform",
+        "ratio": 0.9488805387740469,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "provid",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "providing",
+          "provide"
+        ]
+      },
+      {
+        "text": "curv",
+        "ratio": 0.9488805387740469,
+        "alias": [
+          "curve"
+        ]
+      },
+      {
+        "text": "document",
+        "ratio": 0.9205545692500907,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "clear",
+        "ratio": 0.8891606138327086
+      },
+      {
+        "text": "shini",
+        "ratio": 0.8535348584412851,
+        "alias": [
+          "shiny"
+        ]
+      }
+    ],
+    "Analyst": [
+      {
+        "text": "data",
+        "ratio": 0.9198729485128533
+      },
+      {
+        "text": "time",
+        "ratio": 1.038455021974849,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 0.938655704259474,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 1.0138011932735764,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "tool",
+        "ratio": 1.054408055310844,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 1.046890615962267
+      },
+      {
+        "text": "get",
+        "ratio": 0.9065744285243171,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 0.9682987013342925,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 0.9353748777311475,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 1.1023716667262489,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 0.9177263309932591,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 1.0083845416892838,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 0.9955565680805012,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 1.0083845416892838,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 0.8653487098079625,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "prep",
+        "ratio": 0.802924849856974,
+        "alias": [
+          "prepping"
+        ]
+      },
+      {
+        "text": "client",
+        "ratio": 0.9269329357493576,
+        "alias": [
+          "clients"
+        ]
+      },
+      {
+        "text": "thing",
+        "ratio": 0.9414970251487218,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 0.8358399175056437,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "stakehold",
+        "ratio": 0.9414970251487218,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 0.9961157639911882,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 0.9873325568661067,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 0.9694051799070554
+      },
+      {
+        "text": "tableau",
+        "ratio": 0.8827782855869273
+      },
+      {
+        "text": "best",
+        "ratio": 0.9476124440702316
+      },
+      {
+        "text": "manag",
+        "ratio": 0.8942131854704229,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 1.1162044744930084,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 0.9861592197244752,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "abl",
+        "ratio": 0.858454016476328,
+        "alias": [
+          "able"
+        ]
+      },
+      {
+        "text": "viz",
+        "ratio": 1.0901866911978537
+      },
+      {
+        "text": "valu",
+        "ratio": 0.9652633775420819,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 0.9624227413705377,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 0.9384090521793935,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 1.0881787594937662,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 0.8998564136669038,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 0.8998564136669038,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "access",
+        "ratio": 1.0589995302267123,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 1.0388351380851295
+      },
+      {
+        "text": "project",
+        "ratio": 0.9624227413705377,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "resourc",
+        "ratio": 0.8720194860574572,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 1.0202968268204275,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 1.0085609221282679,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 0.9842857925268877,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "literaci",
+        "ratio": 0.9176210368807239,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 0.9842857925268877
+      },
+      {
+        "text": "like",
+        "ratio": 1.0756877713125996
+      },
+      {
+        "text": "expect",
+        "ratio": 0.9716990741948704,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "try",
+        "ratio": 0.9317787824379296,
+        "alias": [
+          "trying"
+        ]
+      },
+      {
+        "text": "well",
+        "ratio": 0.9454817274314977
+      },
+      {
+        "text": "chang",
+        "ratio": 0.9386660101495806,
+        "alias": [
+          "changing",
+          "change",
+          "changed",
+          "changes"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 0.9539127710285794
+      },
+      {
+        "text": "request",
+        "ratio": 0.8309391756666239,
+        "alias": [
+          "requested",
+          "requesting",
+          "requests"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 0.9228226289942113,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "less",
+        "ratio": 0.9228226289942113
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.035978586675734,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "practic",
+        "ratio": 0.9539127710285794,
+        "alias": [
+          "practices",
+          "practice"
+        ]
+      },
+      {
+        "text": "tabl",
+        "ratio": 0.8683296408715354,
+        "alias": [
+          "tables",
+          "table"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 1.0271026106752612,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "excel",
+        "ratio": 0.9099719892094827
+      },
+      {
+        "text": "ask",
+        "ratio": 0.9809039498439923,
+        "alias": [
+          "asked",
+          "asks",
+          "asking"
+        ]
+      },
+      {
+        "text": "import",
+        "ratio": 0.8898232496854552,
+        "alias": [
+          "importance",
+          "important"
+        ]
+      },
+      {
+        "text": "sourc",
+        "ratio": 0.9290012462053462,
+        "alias": [
+          "sources",
+          "sourcing",
+          "source"
+        ]
+      },
+      {
+        "text": "task",
+        "ratio": 0.8683296408715354,
+        "alias": [
+          "tasks"
+        ]
+      },
+      {
+        "text": "feel",
+        "ratio": 0.9809039498439923,
+        "alias": [
+          "feeling",
+          "feels"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 1.0271026106752612,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 1.0555832301567092,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "team",
+        "ratio": 0.9968367819768544,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "option",
+        "ratio": 0.9470820683444554,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 1.041544029293353,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "basic",
+        "ratio": 0.8897270619618901,
+        "alias": [
+          "basically"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 1.0812324073304291,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "set",
+        "ratio": 0.9140918718322082,
+        "alias": [
+          "sets",
+          "setting"
+        ]
+      },
+      {
+        "text": "simpl",
+        "ratio": 0.8631669412597278,
+        "alias": [
+          "simple"
+        ]
+      },
+      {
+        "text": "busi",
+        "ratio": 0.9367182249916207,
+        "alias": [
+          "business"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 1.0655620164883326,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "product",
+        "ratio": 1.0655620164883326,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "bui",
+        "ratio": 0.9140918718322082,
+        "alias": [
+          "buy"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 1.0812324073304291,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "power",
+        "ratio": 0.9579288322997994,
+        "alias": [
+          "powerful"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 1.1799349570712516,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "poor",
+        "ratio": 0.9367182249916207
+      },
+      {
+        "text": "analysi",
+        "ratio": 1.0655620164883326,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "present",
+        "ratio": 0.9579288322997994,
+        "alias": [
+          "presenting",
+          "presentations",
+          "presentation",
+          "presented"
+        ]
+      },
+      {
+        "text": "compani",
+        "ratio": 0.9367182249916207,
+        "alias": [
+          "company"
+        ]
+      },
+      {
+        "text": "hard",
+        "ratio": 0.9579288322997994
+      },
+      {
+        "text": "alwai",
+        "ratio": 1.0151701701026448,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "spend",
+        "ratio": 0.9579288322997994,
+        "alias": [
+          "spending"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 1.096434909646571
+      },
+      {
+        "text": "restrict",
+        "ratio": 0.8897270619618901,
+        "alias": [
+          "restrictions",
+          "restriction",
+          "restrictive",
+          "restricted"
+        ]
+      },
+      {
+        "text": "feedback",
+        "ratio": 0.9779609587275766
+      },
+      {
+        "text": "report",
+        "ratio": 0.9140918718322082,
+        "alias": [
+          "reports",
+          "reporting"
+        ]
+      },
+      {
+        "text": "tell",
+        "ratio": 0.8337300937583993,
+        "alias": [
+          "telling"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 1.096434909646571,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 1.1396497279271849,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "dashboard",
+        "ratio": 0.9969946664066269,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "person",
+        "ratio": 0.9367182249916207,
+        "alias": [
+          "personal",
+          "personally"
+        ]
+      },
+      {
+        "text": "solut",
+        "ratio": 0.9971763632806196,
+        "alias": [
+          "solutions",
+          "solution"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.9971763632806196
+      },
+      {
+        "text": "end",
+        "ratio": 0.918877895641596
+      },
+      {
+        "text": "connect",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "connection",
+          "connecting",
+          "connections"
+        ]
+      },
+      {
+        "text": "servic",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "services",
+          "service"
+        ]
+      },
+      {
+        "text": "leadership",
+        "ratio": 0.9971763632806196
+      },
+      {
+        "text": "educ",
+        "ratio": 1.0197559562619904,
+        "alias": [
+          "educational",
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "text": "around",
+        "ratio": 0.9730896486680073
+      },
+      {
+        "text": "everyth",
+        "ratio": 1.0806917932476212,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "constraint",
+        "ratio": 0.918877895641596,
+        "alias": [
+          "constraints"
+        ]
+      },
+      {
+        "text": "line",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "lines"
+        ]
+      },
+      {
+        "text": "singl",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "single"
+        ]
+      },
+      {
+        "text": "peer",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "peers"
+        ]
+      },
+      {
+        "text": "think",
+        "ratio": 1.0992455341875924,
+        "alias": [
+          "thinking"
+        ]
+      },
+      {
+        "text": "seen",
+        "ratio": 0.887541120339628
+      },
+      {
+        "text": "type",
+        "ratio": 0.9971763632806196,
+        "alias": [
+          "types"
+        ]
+      },
+      {
+        "text": "understood",
+        "ratio": 0.887541120339628
+      },
+      {
+        "text": "qualiti",
+        "ratio": 0.9730896486680073,
+        "alias": [
+          "quality"
+        ]
+      },
+      {
+        "text": "complet",
+        "ratio": 0.9471522729980455,
+        "alias": [
+          "complete",
+          "completing",
+          "completeness"
+        ]
+      },
+      {
+        "text": "even",
+        "ratio": 0.8519802527515381
+      },
+      {
+        "text": "effect",
+        "ratio": 1.0197559562619904,
+        "alias": [
+          "effective",
+          "effects",
+          "effectiveness",
+          "effectively"
+        ]
+      },
+      {
+        "text": "therefor",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "therefore"
+        ]
+      },
+      {
+        "text": "avail",
+        "ratio": 1.0992455341875924,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "prioriti",
+        "ratio": 0.9730896486680073,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "opportun",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "opportunities"
+        ]
+      },
+      {
+        "text": "curv",
+        "ratio": 0.9471522729980455,
+        "alias": [
+          "curve"
+        ]
+      },
+      {
+        "text": "featur",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "features"
+        ]
+      },
+      {
+        "text": "fund",
+        "ratio": 0.9730896486680073,
+        "alias": [
+          "funds",
+          "funding"
+        ]
+      },
+      {
+        "text": "ignor",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "ignoring",
+          "ignorance",
+          "ignored"
+        ]
+      },
+      {
+        "text": "job",
+        "ratio": 1.1672015624389744,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "right",
+        "ratio": 1.0613431970605975
+      },
+      {
+        "text": "start",
+        "ratio": 0.8519802527515381,
+        "alias": [
+          "starting",
+          "started",
+          "starts"
+        ]
+      },
+      {
+        "text": "graphic",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "graphics"
+        ]
+      },
+      {
+        "text": "integr",
+        "ratio": 0.9730896486680073,
+        "alias": [
+          "integrity",
+          "integrated",
+          "integration",
+          "integrate"
+        ]
+      },
+      {
+        "text": "reluct",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "reluctant",
+          "reluctance",
+          "reluctancy"
+        ]
+      },
+      {
+        "text": "outsid",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "outside"
+        ]
+      },
+      {
+        "text": "question",
+        "ratio": 0.9471522729980455,
+        "alias": [
+          "questions",
+          "questioning"
+        ]
+      },
+      {
+        "text": "plot",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "plots"
+        ]
+      },
+      {
+        "text": "everi",
+        "ratio": 0.918877895641596,
+        "alias": [
+          "every"
+        ]
+      },
+      {
+        "text": "long",
+        "ratio": 1.0410810062579026
+      },
+      {
+        "text": "abil",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "abilities",
+          "ability"
+        ]
+      },
+      {
+        "text": "train",
+        "ratio": 1.0197559562619904,
+        "alias": [
+          "trained",
+          "training"
+        ]
+      },
+      {
+        "text": "invest",
+        "ratio": 0.887541120339628,
+        "alias": [
+          "investing",
+          "investment"
+        ]
+      },
+      {
+        "text": "librari",
+        "ratio": 1.1068963932301246,
+        "alias": [
+          "library",
+          "libraries"
+        ]
+      },
+      {
+        "text": "quickli",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "quickly"
+        ]
+      },
+      {
+        "text": "prefer",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "prefers"
+        ]
+      },
+      {
+        "text": "collect",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "collection"
+        ]
+      },
+      {
+        "text": "databas",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "database",
+          "databases"
+        ]
+      },
+      {
+        "text": "look",
+        "ratio": 1.130043716647045,
+        "alias": [
+          "looks",
+          "looked"
+        ]
+      },
+      {
+        "text": "format",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "formats",
+          "formatting"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 1.1520373571653666,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "usual",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "usually"
+        ]
+      },
+      {
+        "text": "beyond",
+        "ratio": 0.9247838790084819
+      },
+      {
+        "text": "consist",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "consistent",
+          "consistency"
+        ]
+      },
+      {
+        "text": "opinion",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "opinions",
+          "opinionated"
+        ]
+      },
+      {
+        "text": "clear",
+        "ratio": 0.963383502606344
+      },
+      {
+        "text": "inform",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "convinc",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "convince",
+          "convincing"
+        ]
+      },
+      {
+        "text": "keep",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "keeping"
+        ]
+      },
+      {
+        "text": "share",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "shared",
+          "sharing"
+        ]
+      },
+      {
+        "text": "version",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "versions"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 1.1520373571653666,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "execut",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "execution",
+          "executives",
+          "execute"
+        ]
+      },
+      {
+        "text": "idea",
+        "ratio": 1.0562423448335916,
+        "alias": [
+          "ideas"
+        ]
+      },
+      {
+        "text": "low",
+        "ratio": 1.1068963932301246
+      },
+      {
+        "text": "show",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "showing"
+        ]
+      },
+      {
+        "text": "exampl",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "example",
+          "examples"
+        ]
+      },
+      {
+        "text": "problem",
+        "ratio": 1.0562423448335916,
+        "alias": [
+          "problems"
+        ]
+      },
+      {
+        "text": "answer",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "answers",
+          "answered"
+        ]
+      },
+      {
+        "text": "exist",
+        "ratio": 1.0562423448335916,
+        "alias": [
+          "existing",
+          "exists"
+        ]
+      },
+      {
+        "text": "care",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "caring",
+          "cares"
+        ]
+      },
+      {
+        "text": "infrastructur",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "infrastructure"
+        ]
+      },
+      {
+        "text": "technic",
+        "ratio": 1.0562423448335916,
+        "alias": [
+          "technical",
+          "technically"
+        ]
+      },
+      {
+        "text": "consid",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "considered",
+          "considering",
+          "consider"
+        ]
+      },
+      {
+        "text": "piec",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "pieces",
+          "piece"
+        ]
+      },
+      {
+        "text": "slow",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "slows",
+          "slowness"
+        ]
+      },
+      {
+        "text": "etc",
+        "ratio": 0.963383502606344
+      },
+      {
+        "text": "see",
+        "ratio": 1.130043716647045,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "static",
+        "ratio": 0.9247838790084819
+      },
+      {
+        "text": "mentor",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "mentoring",
+          "mentors"
+        ]
+      },
+      {
+        "text": "dataviz",
+        "ratio": 1.08238732331177
+      },
+      {
+        "text": "wish",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "wishes"
+        ]
+      },
+      {
+        "text": "dedic",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "dedicated",
+          "dedicate"
+        ]
+      },
+      {
+        "text": "mostli",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "mostly"
+        ]
+      },
+      {
+        "text": "explain",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "explaining"
+        ]
+      },
+      {
+        "text": "standard",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "standards",
+          "standardization"
+        ]
+      },
+      {
+        "text": "produc",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "produce",
+          "produced",
+          "producing"
+        ]
+      },
+      {
+        "text": "gener",
+        "ratio": 1.0562423448335916,
+        "alias": [
+          "generally",
+          "general",
+          "generation"
+        ]
+      },
+      {
+        "text": "stori",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "story",
+          "stories"
+        ]
+      },
+      {
+        "text": "level",
+        "ratio": 1.0280885621538858
+      },
+      {
+        "text": "sinc",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "since"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 1.130043716647045,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "vizz",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "vizzing",
+          "vizzes"
+        ]
+      },
+      {
+        "text": "choic",
+        "ratio": 0.9973980757443702,
+        "alias": [
+          "choice",
+          "choices"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 1.0562423448335916
+      },
+      {
+        "text": "addit",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "additional",
+          "addition"
+        ]
+      },
+      {
+        "text": "graph",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "graphs"
+        ]
+      },
+      {
+        "text": "implement",
+        "ratio": 1.1068963932301246,
+        "alias": [
+          "implementation",
+          "implementing"
+        ]
+      },
+      {
+        "text": "wrangl",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "wrangling",
+          "wrangle"
+        ]
+      },
+      {
+        "text": "meet",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "meeting",
+          "meetings"
+        ]
+      },
+      {
+        "text": "prepar",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "preparation",
+          "prepared",
+          "preparing"
+        ]
+      },
+      {
+        "text": "small",
+        "ratio": 1.0280885621538858
+      },
+      {
+        "text": "expertis",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "expertise"
+        ]
+      },
+      {
+        "text": "build",
+        "ratio": 1.2669415576370902,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "gain",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "gaining"
+        ]
+      },
+      {
+        "text": "govern",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "governance",
+          "government"
+        ]
+      },
+      {
+        "text": "alloc",
+        "ratio": 0.963383502606344,
+        "alias": [
+          "allocated",
+          "allocate",
+          "allocation"
+        ]
+      },
+      {
+        "text": "term",
+        "ratio": 0.9247838790084819,
+        "alias": [
+          "terms"
+        ]
+      },
+      {
+        "text": "within",
+        "ratio": 0.963383502606344
+      },
+      {
+        "text": "effort",
+        "ratio": 1.0280885621538858,
+        "alias": [
+          "efforts"
+        ]
+      },
+      {
+        "text": "interest",
+        "ratio": 1.2558639541604495,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "document",
+        "ratio": 1.1316292102290126,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "place",
+        "ratio": 1.0930369114542886
+      },
+      {
+        "text": "issu",
+        "ratio": 1.198392817834975,
+        "alias": [
+          "issue",
+          "issues"
+        ]
+      },
+      {
+        "text": "behind",
+        "ratio": 1.0930369114542886
+      },
+      {
+        "text": "put",
+        "ratio": 1.0930369114542886
+      },
+      {
+        "text": "unless",
+        "ratio": 1.0492425001460588
+      }
+    ],
+    "None of these describe my role": [
+      {
+        "text": "data",
+        "ratio": 1.069012863563687
+      },
+      {
+        "text": "time",
+        "ratio": 1.0563861178309795,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 0.9533013382231599,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "tool",
+        "ratio": 0.8698717824166524,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 0.6965601640301019,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 0.7929263602222067,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 0.8463959495759993,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "viz",
+        "ratio": 0.762240098914107
+      },
+      {
+        "text": "enough",
+        "ratio": 1.1076683348522518
+      },
+      {
+        "text": "know",
+        "ratio": 0.8015381768946819,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 0.7089079462265886,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 1.0349625990973748,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 0.9169320071774475,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 1.0570337356536994,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 0.7918827992702,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 0.8189731713630557
+      },
+      {
+        "text": "need",
+        "ratio": 0.9368042586413895,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "project",
+        "ratio": 0.7824637915317848,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 1.0570337356536994,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "help",
+        "ratio": 0.6431345315695955
+      },
+      {
+        "text": "realli",
+        "ratio": 0.710752365006917,
+        "alias": [
+          "really"
+        ]
+      },
+      {
+        "text": "mostli",
+        "ratio": 0.6482670442397226,
+        "alias": [
+          "mostly"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 1.0770102061013278,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "due",
+        "ratio": 0.6711556724232118
+      },
+      {
+        "text": "program",
+        "ratio": 0.6918075009599787,
+        "alias": [
+          "programming",
+          "programs"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 0.8407125304504287,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "across",
+        "ratio": 0.6482670442397226
+      },
+      {
+        "text": "team",
+        "ratio": 0.8159390938271022,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 1.8002376256806079,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 0.8752167020400082,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "import",
+        "ratio": 0.7283454916007459,
+        "alias": [
+          "importance",
+          "important"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 1.0019227211183526,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 0.9373196987464019,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "quickli",
+        "ratio": 0.6482670442397226,
+        "alias": [
+          "quickly"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 0.8640247228489099,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "process",
+        "ratio": 0.710752365006917,
+        "alias": [
+          "processing"
+        ]
+      },
+      {
+        "text": "base",
+        "ratio": 0.710752365006917,
+        "alias": [
+          "based"
+        ]
+      },
+      {
+        "text": "leadership",
+        "ratio": 0.7283454916007459
+      },
+      {
+        "text": "love",
+        "ratio": 0.6482670442397226
+      },
+      {
+        "text": "might",
+        "ratio": 0.6222931056878844
+      },
+      {
+        "text": "issu",
+        "ratio": 0.710752365006917,
+        "alias": [
+          "issue",
+          "issues"
+        ]
+      },
+      {
+        "text": "implement",
+        "ratio": 0.7448378046516252,
+        "alias": [
+          "implementation",
+          "implementing"
+        ]
+      },
+      {
+        "text": "collabor",
+        "ratio": 0.7283454916007459,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "place",
+        "ratio": 0.6482670442397226
+      },
+      {
+        "text": "job",
+        "ratio": 0.852533239952596,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "practic",
+        "ratio": 0.8159390938271022,
+        "alias": [
+          "practices",
+          "practice"
+        ]
+      },
+      {
+        "text": "present",
+        "ratio": 0.7448378046516252,
+        "alias": [
+          "presenting",
+          "presentations",
+          "presentation",
+          "presented"
+        ]
+      },
+      {
+        "text": "exist",
+        "ratio": 0.710752365006917,
+        "alias": [
+          "existing",
+          "exists"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 0.852533239952596
+      },
+      {
+        "text": "explor",
+        "ratio": 0.8640247228489099,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "ask",
+        "ratio": 0.8028976201900583,
+        "alias": [
+          "asked",
+          "asks",
+          "asking"
+        ]
+      },
+      {
+        "text": "right",
+        "ratio": 0.7752134537936978
+      },
+      {
+        "text": "wai",
+        "ratio": 0.7752134537936978,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 0.8407125304504287,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "technic",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "technical",
+          "technically"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 1.1917059736837345,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 1.0088550365405144,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "qualiti",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "quality"
+        ]
+      },
+      {
+        "text": "understood",
+        "ratio": 0.7779204530876672
+      },
+      {
+        "text": "respons",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "responses",
+          "responsible",
+          "responsibilities"
+        ]
+      },
+      {
+        "text": "sinc",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "since"
+        ]
+      },
+      {
+        "text": "task",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "tasks"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 1.1477884705205827,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "deadlin",
+        "ratio": 0.8053868069078542,
+        "alias": [
+          "deadlines",
+          "deadline"
+        ]
+      },
+      {
+        "text": "scienc",
+        "ratio": 0.8053868069078542,
+        "alias": [
+          "science"
+        ]
+      },
+      {
+        "text": "keep",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "keeping"
+        ]
+      },
+      {
+        "text": "properli",
+        "ratio": 0.8053868069078542,
+        "alias": [
+          "properly"
+        ]
+      },
+      {
+        "text": "educ",
+        "ratio": 0.8938053655819503,
+        "alias": [
+          "educational",
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "text": "expect",
+        "ratio": 1.0368296674186919,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "platform",
+        "ratio": 0.8301690011519745
+      },
+      {
+        "text": "access",
+        "ratio": 1.1700677099943517,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 1.0088550365405144,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "fix",
+        "ratio": 0.7467517268254613,
+        "alias": [
+          "fixing",
+          "fixed"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 1.063361919339883,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "given",
+        "ratio": 0.8053868069078542
+      },
+      {
+        "text": "bui",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "buy"
+        ]
+      },
+      {
+        "text": "inform",
+        "ratio": 0.8301690011519745,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 0.9472149855204595,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "amount",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "amounts"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 0.9791269125925227
+      },
+      {
+        "text": "experi",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "current",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "currently"
+        ]
+      },
+      {
+        "text": "product",
+        "ratio": 0.9942336169285734,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "allow",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "allowed",
+          "allows"
+        ]
+      },
+      {
+        "text": "put",
+        "ratio": 0.7779204530876672
+      },
+      {
+        "text": "attent",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "attention"
+        ]
+      },
+      {
+        "text": "chang",
+        "ratio": 0.96347714422807,
+        "alias": [
+          "changing",
+          "change",
+          "changed",
+          "changes"
+        ]
+      },
+      {
+        "text": "everyth",
+        "ratio": 0.9472149855204595,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "train",
+        "ratio": 0.8938053655819503,
+        "alias": [
+          "trained",
+          "training"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 1.0886848075852114,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "dashboard",
+        "ratio": 0.9302561445524374,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "format",
+        "ratio": 0.8053868069078542,
+        "alias": [
+          "formats",
+          "formatting"
+        ]
+      },
+      {
+        "text": "feel",
+        "ratio": 0.96347714422807,
+        "alias": [
+          "feeling",
+          "feels"
+        ]
+      },
+      {
+        "text": "mentor",
+        "ratio": 0.7467517268254613,
+        "alias": [
+          "mentoring",
+          "mentors"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 1.1477884705205827
+      },
+      {
+        "text": "alloc",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "allocated",
+          "allocate",
+          "allocation"
+        ]
+      },
+      {
+        "text": "fund",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "funds",
+          "funding"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 1.05026004244801
+      },
+      {
+        "text": "free",
+        "ratio": 0.7779204530876672
+      },
+      {
+        "text": "like",
+        "ratio": 1.1477884705205827
+      },
+      {
+        "text": "excel",
+        "ratio": 0.8938053655819503
+      },
+      {
+        "text": "power",
+        "ratio": 0.8938053655819503,
+        "alias": [
+          "powerful"
+        ]
+      },
+      {
+        "text": "anyon",
+        "ratio": 0.7467517268254613,
+        "alias": [
+          "anyone"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 0.9942336169285734,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "manag",
+        "ratio": 1.05026004244801,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 1.1700677099943517
+      },
+      {
+        "text": "done",
+        "ratio": 0.8740145899208952
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.063361919339883,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 0.8529028380083004
+      },
+      {
+        "text": "databas",
+        "ratio": 0.7467517268254613,
+        "alias": [
+          "database",
+          "databases"
+        ]
+      },
+      {
+        "text": "graph",
+        "ratio": 0.8301690011519745,
+        "alias": [
+          "graphs"
+        ]
+      },
+      {
+        "text": "someth",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "something"
+        ]
+      },
+      {
+        "text": "servic",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "services",
+          "service"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 1.0230398879431153,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "idea",
+        "ratio": 0.8529028380083004,
+        "alias": [
+          "ideas"
+        ]
+      },
+      {
+        "text": "number",
+        "ratio": 0.7779204530876672
+      },
+      {
+        "text": "question",
+        "ratio": 0.8301690011519745,
+        "alias": [
+          "questions",
+          "questioning"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 0.9942336169285734,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "noth",
+        "ratio": 0.7467517268254613,
+        "alias": [
+          "nothing"
+        ]
+      },
+      {
+        "text": "see",
+        "ratio": 0.91249654751681,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "thing",
+        "ratio": 1.1363826922070708,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "around",
+        "ratio": 0.8529028380083004
+      },
+      {
+        "text": "feedback",
+        "ratio": 0.91249654751681
+      },
+      {
+        "text": "abl",
+        "ratio": 0.9791269125925227,
+        "alias": [
+          "able"
+        ]
+      },
+      {
+        "text": "consid",
+        "ratio": 0.7779204530876672,
+        "alias": [
+          "considered",
+          "considering",
+          "consider"
+        ]
+      },
+      {
+        "text": "first",
+        "ratio": 0.7779204530876672
+      }
+    ],
+    "Student": [
+      {
+        "text": "lack",
+        "ratio": 0.800166891183461,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "time",
+        "ratio": 1.0209362723793327,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "data",
+        "ratio": 1.4337991688212326
+      },
+      {
+        "text": "enough",
+        "ratio": 0.8454478955488476
+      },
+      {
+        "text": "visual",
+        "ratio": 1.0854521555456185,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 0.911544374624092,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 0.6579297562636509,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 0.820112021861233,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "tool",
+        "ratio": 1.170255422217057,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "experi",
+        "ratio": 0.5412173030546337,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 0.9436293994746192,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 0.6579297562636509,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "low",
+        "ratio": 0.5671723763349892
+      },
+      {
+        "text": "design",
+        "ratio": 0.9851174864547303,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 1.1509610807848791,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 0.9196377588730155
+      },
+      {
+        "text": "proper",
+        "ratio": 0.665152838971265
+      },
+      {
+        "text": "document",
+        "ratio": 0.6452967050581218,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 1.0200480889505066,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "present",
+        "ratio": 0.7161399372653142,
+        "alias": [
+          "presenting",
+          "presentations",
+          "presentation",
+          "presented"
+        ]
+      },
+      {
+        "text": "alwai",
+        "ratio": 0.7589331038147505,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "poor",
+        "ratio": 0.7002830568010624
+      },
+      {
+        "text": "commun",
+        "ratio": 0.8083207042592744,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "dataviz",
+        "ratio": 0.7002830568010624
+      },
+      {
+        "text": "option",
+        "ratio": 0.7453452425480817,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 1.116203977686454,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.7002830568010624
+      },
+      {
+        "text": "collabor",
+        "ratio": 0.7002830568010624,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "peer",
+        "ratio": 0.6232899531867131,
+        "alias": [
+          "peers"
+        ]
+      },
+      {
+        "text": "team",
+        "ratio": 0.7845017637617883,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 0.7966056453361187,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "effect",
+        "ratio": 0.7161399372653142,
+        "alias": [
+          "effective",
+          "effects",
+          "effectiveness",
+          "effectively"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 0.9633196249779321,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "type",
+        "ratio": 0.7002830568010624,
+        "alias": [
+          "types"
+        ]
+      },
+      {
+        "text": "graph",
+        "ratio": 0.665152838971265,
+        "alias": [
+          "graphs"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 0.9633196249779321,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 0.7966056453361187,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "noth",
+        "ratio": 0.5983167649182328,
+        "alias": [
+          "nothing"
+        ]
+      },
+      {
+        "text": "far",
+        "ratio": 0.6452967050581218
+      },
+      {
+        "text": "show",
+        "ratio": 0.5983167649182328,
+        "alias": [
+          "showing"
+        ]
+      },
+      {
+        "text": "well",
+        "ratio": 0.8083207042592744
+      },
+      {
+        "text": "prioriti",
+        "ratio": 0.6833677760560171,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 1.116203977686454,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 0.8519930261445346,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 0.7311157948442512,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 0.9196377588730155,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "current",
+        "ratio": 0.6232899531867131,
+        "alias": [
+          "currently"
+        ]
+      },
+      {
+        "text": "standard",
+        "ratio": 0.6452967050581218,
+        "alias": [
+          "standards",
+          "standardization"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 0.8083207042592744,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "literaci",
+        "ratio": 0.7845017637617883,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 0.8196859734607659,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "interest",
+        "ratio": 0.7161399372653142,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 0.9374884607970027
+      },
+      {
+        "text": "job",
+        "ratio": 0.8196859734607659,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "yet",
+        "ratio": 0.6232899531867131
+      },
+      {
+        "text": "anyon",
+        "ratio": 0.5983167649182328,
+        "alias": [
+          "anyone"
+        ]
+      },
+      {
+        "text": "els",
+        "ratio": 0.5983167649182328,
+        "alias": [
+          "else"
+        ]
+      },
+      {
+        "text": "around",
+        "ratio": 0.6833677760560171
+      },
+      {
+        "text": "help",
+        "ratio": 0.7002830568010624
+      }
+    ],
+    "Engineer": [
+      {
+        "text": "data",
+        "ratio": 0.8185281502755324
+      },
+      {
+        "text": "time",
+        "ratio": 0.842509606216512,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 1.0225398044091905,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 0.9599685883872497
+      },
+      {
+        "text": "tool",
+        "ratio": 1.032000829766775,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 1.2782396733213799,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 0.918580299968678,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 0.7216891227633099
+      },
+      {
+        "text": "need",
+        "ratio": 0.8004864995900317,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 0.7405036716195819,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 0.9661957837714471,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 0.9250981829406724,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "build",
+        "ratio": 0.742991585751797,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "access",
+        "ratio": 0.8497718158707964,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "take",
+        "ratio": 0.7815721791595373,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 1.0117657130354907,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 0.8731860723763365,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 0.7908448207624648,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "engin",
+        "ratio": 0.725828574170152,
+        "alias": [
+          "engineering",
+          "engineers",
+          "engineer",
+          "engine"
+        ]
+      },
+      {
+        "text": "product",
+        "ratio": 0.7908448207624648,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 0.8354100091582858
+      },
+      {
+        "text": "want",
+        "ratio": 1.028025521045813,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "result",
+        "ratio": 0.6952188096848737,
+        "alias": [
+          "results"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 1.1828568283482428,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "long",
+        "ratio": 0.725828574170152
+      },
+      {
+        "text": "viz",
+        "ratio": 0.9890668778035807
+      },
+      {
+        "text": "limit",
+        "ratio": 1.1081319092275956,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "issu",
+        "ratio": 0.7615785515859705,
+        "alias": [
+          "issue",
+          "issues"
+        ]
+      },
+      {
+        "text": "part",
+        "ratio": 0.7981014546853297,
+        "alias": [
+          "parts"
+        ]
+      },
+      {
+        "text": "chang",
+        "ratio": 0.8603131509104672,
+        "alias": [
+          "changing",
+          "change",
+          "changed",
+          "changes"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 0.9134982337423163,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "creat",
+        "ratio": 0.9134982337423163,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 0.8147912845592944,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "project",
+        "ratio": 0.9495027970989874,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "iter",
+        "ratio": 0.6946248804788733,
+        "alias": [
+          "iteration",
+          "iterations",
+          "iterative",
+          "iterate"
+        ]
+      },
+      {
+        "text": "implement",
+        "ratio": 0.7981014546853297,
+        "alias": [
+          "implementation",
+          "implementing"
+        ]
+      },
+      {
+        "text": "sourc",
+        "ratio": 0.8147912845592944,
+        "alias": [
+          "sources",
+          "sourcing",
+          "source"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 1.0043478061973607,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "idea",
+        "ratio": 0.7615785515859705,
+        "alias": [
+          "ideas"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 0.9938061356627793
+      },
+      {
+        "text": "manag",
+        "ratio": 0.937803799297935,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "problem",
+        "ratio": 0.7615785515859705,
+        "alias": [
+          "problems"
+        ]
+      },
+      {
+        "text": "stakehold",
+        "ratio": 1.0147048951078812,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "dashboard",
+        "ratio": 0.8306492786758669,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "number",
+        "ratio": 0.6946248804788733
+      },
+      {
+        "text": "spent",
+        "ratio": 0.6667935351676277
+      },
+      {
+        "text": "exist",
+        "ratio": 0.7615785515859705,
+        "alias": [
+          "existing",
+          "exists"
+        ]
+      },
+      {
+        "text": "speed",
+        "ratio": 0.6667935351676277
+      },
+      {
+        "text": "option",
+        "ratio": 0.8306492786758669,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "effort",
+        "ratio": 0.7412789327155923,
+        "alias": [
+          "efforts"
+        ]
+      },
+      {
+        "text": "prep",
+        "ratio": 0.8877763845723944,
+        "alias": [
+          "prepping"
+        ]
+      },
+      {
+        "text": "spend",
+        "ratio": 0.7981014546853297,
+        "alias": [
+          "spending"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 0.8306492786758669,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 1.0735706166000072,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "low",
+        "ratio": 0.7981014546853297
+      },
+      {
+        "text": "base",
+        "ratio": 0.7615785515859705,
+        "alias": [
+          "based"
+        ]
+      },
+      {
+        "text": "properli",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "properly"
+        ]
+      },
+      {
+        "text": "knowledg",
+        "ratio": 1.0986164217575345,
+        "alias": [
+          "knowledge"
+        ]
+      },
+      {
+        "text": "larg",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "large",
+          "largely"
+        ]
+      },
+      {
+        "text": "strong",
+        "ratio": 0.7912521563052046
+      },
+      {
+        "text": "javascript",
+        "ratio": 0.7912521563052046
+      },
+      {
+        "text": "skill",
+        "ratio": 1.262722116984729,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "due",
+        "ratio": 0.8533814181249978
+      },
+      {
+        "text": "team",
+        "ratio": 1.0374750443213514,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "fix",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "fixing",
+          "fixed"
+        ]
+      },
+      {
+        "text": "someon",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "someone"
+        ]
+      },
+      {
+        "text": "els",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "else"
+        ]
+      },
+      {
+        "text": "execut",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "execution",
+          "executives",
+          "execute"
+        ]
+      },
+      {
+        "text": "web",
+        "ratio": 0.8796404329075881
+      },
+      {
+        "text": "platform",
+        "ratio": 0.8796404329075881
+      },
+      {
+        "text": "dedic",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "dedicated",
+          "dedicate"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 1.1267297836556347,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "far",
+        "ratio": 0.8533814181249978
+      },
+      {
+        "text": "qualiti",
+        "ratio": 0.9037290245873539,
+        "alias": [
+          "quality"
+        ]
+      },
+      {
+        "text": "simpl",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "simple"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 1.068974726654533,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "like",
+        "ratio": 1.216187481939276
+      },
+      {
+        "text": "shini",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "shiny"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 1.068974726654533,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 0.9856919694346065,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "expect",
+        "ratio": 1.0986164217575345,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.9260988680361734
+      },
+      {
+        "text": "choic",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "choice",
+          "choices"
+        ]
+      },
+      {
+        "text": "process",
+        "ratio": 0.9037290245873539,
+        "alias": [
+          "processing"
+        ]
+      },
+      {
+        "text": "test",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "tested",
+          "testing"
+        ]
+      },
+      {
+        "text": "given",
+        "ratio": 0.8533814181249978
+      },
+      {
+        "text": "everyth",
+        "ratio": 1.0036614216666477,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "even",
+        "ratio": 0.7912521563052046
+      },
+      {
+        "text": "small",
+        "ratio": 0.8796404329075881
+      },
+      {
+        "text": "interest",
+        "ratio": 0.9470690156156547,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "budget",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "budgets"
+        ]
+      },
+      {
+        "text": "respons",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "responses",
+          "responsible",
+          "responsibilities"
+        ]
+      },
+      {
+        "text": "provid",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "providing",
+          "provide"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 1.0534819873938233,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "thing",
+        "ratio": 1.2041020104757265,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 1.0840048817328356
+      },
+      {
+        "text": "solut",
+        "ratio": 0.9260988680361734,
+        "alias": [
+          "solutions",
+          "solution"
+        ]
+      },
+      {
+        "text": "resourc",
+        "ratio": 1.020892674948479,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "yet",
+        "ratio": 0.8242782893268178
+      },
+      {
+        "text": "consist",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "consistent",
+          "consistency"
+        ]
+      },
+      {
+        "text": "applic",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "applications",
+          "applicable",
+          "application"
+        ]
+      },
+      {
+        "text": "help",
+        "ratio": 0.9260988680361734
+      },
+      {
+        "text": "restrict",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "restrictions",
+          "restriction",
+          "restrictive",
+          "restricted"
+        ]
+      },
+      {
+        "text": "difficult",
+        "ratio": 0.8533814181249978
+      },
+      {
+        "text": "beyond",
+        "ratio": 0.7912521563052046
+      },
+      {
+        "text": "type",
+        "ratio": 0.9260988680361734,
+        "alias": [
+          "types"
+        ]
+      },
+      {
+        "text": "integr",
+        "ratio": 0.9037290245873539,
+        "alias": [
+          "integrity",
+          "integrated",
+          "integration",
+          "integrate"
+        ]
+      },
+      {
+        "text": "hard",
+        "ratio": 0.9470690156156547
+      },
+      {
+        "text": "prepar",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "preparation",
+          "prepared",
+          "preparing"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 1.068974726654533,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "python",
+        "ratio": 0.9668740424787627,
+        "alias": [
+          "pythonic"
+        ]
+      },
+      {
+        "text": "singl",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "single"
+        ]
+      },
+      {
+        "text": "leadership",
+        "ratio": 0.9260988680361734
+      },
+      {
+        "text": "current",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "currently"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 0.9037290245873539
+      },
+      {
+        "text": "featur",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "features"
+        ]
+      },
+      {
+        "text": "show",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "showing"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 1.0986164217575345,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "tableau",
+        "ratio": 1.0986164217575345
+      },
+      {
+        "text": "consum",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "consumed",
+          "consumers",
+          "consuming"
+        ]
+      },
+      {
+        "text": "appreci",
+        "ratio": 0.9260988680361734,
+        "alias": [
+          "appreciation",
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciates"
+        ]
+      },
+      {
+        "text": "consid",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "considered",
+          "considering",
+          "consider"
+        ]
+      },
+      {
+        "text": "produc",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "produce",
+          "produced",
+          "producing"
+        ]
+      },
+      {
+        "text": "attent",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "attention"
+        ]
+      },
+      {
+        "text": "busi",
+        "ratio": 0.9260988680361734,
+        "alias": [
+          "business"
+        ]
+      },
+      {
+        "text": "custom",
+        "ratio": 0.9856919694346065,
+        "alias": [
+          "customer",
+          "customers",
+          "customization",
+          "customize",
+          "customizing"
+        ]
+      },
+      {
+        "text": "addit",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "additional",
+          "addition"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 1.0534819873938233,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 1.1128471397059367,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "client",
+        "ratio": 1.216187481939276,
+        "alias": [
+          "clients"
+        ]
+      },
+      {
+        "text": "question",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "questions",
+          "questioning"
+        ]
+      },
+      {
+        "text": "see",
+        "ratio": 0.9668740424787627,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "valu",
+        "ratio": 1.1665583085135038,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "servic",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "services",
+          "service"
+        ]
+      },
+      {
+        "text": "separ",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "separate",
+          "separation"
+        ]
+      },
+      {
+        "text": "tell",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "telling"
+        ]
+      },
+      {
+        "text": "stori",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "story",
+          "stories"
+        ]
+      },
+      {
+        "text": "opinion",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "opinions",
+          "opinionated"
+        ]
+      },
+      {
+        "text": "librari",
+        "ratio": 0.9470690156156547,
+        "alias": [
+          "library",
+          "libraries"
+        ]
+      },
+      {
+        "text": "job",
+        "ratio": 1.0840048817328356,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "hour",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "hours"
+        ]
+      },
+      {
+        "text": "dai",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "day"
+        ]
+      },
+      {
+        "text": "usual",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "usually"
+        ]
+      },
+      {
+        "text": "constraint",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "constraints"
+        ]
+      },
+      {
+        "text": "experi",
+        "ratio": 0.9037290245873539,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "look",
+        "ratio": 0.9668740424787627,
+        "alias": [
+          "looks",
+          "looked"
+        ]
+      },
+      {
+        "text": "alwai",
+        "ratio": 1.0036614216666477,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 1.0036614216666477,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "literaci",
+        "ratio": 1.0374750443213514,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 1.522104160191571,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "curv",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "curve"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 1.2397943858689138
+      },
+      {
+        "text": "piec",
+        "ratio": 0.7912521563052046,
+        "alias": [
+          "pieces",
+          "piece"
+        ]
+      },
+      {
+        "text": "inform",
+        "ratio": 0.8796404329075881,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "try",
+        "ratio": 1.0534819873938233,
+        "alias": [
+          "trying"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 1.1267297836556347,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "exampl",
+        "ratio": 0.8533814181249978,
+        "alias": [
+          "example",
+          "examples"
+        ]
+      },
+      {
+        "text": "etc",
+        "ratio": 0.8242782893268178
+      },
+      {
+        "text": "innov",
+        "ratio": 0.8242782893268178,
+        "alias": [
+          "innovate",
+          "innovative",
+          "innovation"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.1267297836556347,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      }
+    ],
+    "Designer": [
+      {
+        "text": "data",
+        "ratio": 0.9331863770183368
+      },
+      {
+        "text": "tool",
+        "ratio": 0.7786935627640207,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 0.9402406051398098,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 0.9368917566970255,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "time",
+        "ratio": 1.3204912679418006,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 0.8270378917776798,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 1.0004139821867117
+      },
+      {
+        "text": "understand",
+        "ratio": 0.8573987578373796,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 0.9227111431335678,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 0.6681991248512794,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 0.9514431374402282,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 0.961952729812441,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "mani",
+        "ratio": 0.7866731542650442,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 0.9039125254089079,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "like",
+        "ratio": 0.8027627230967618
+      },
+      {
+        "text": "thing",
+        "ratio": 0.794785527042649,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 0.7706118336713514,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 0.760362737236781,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 0.7498200080950428,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "stakehold",
+        "ratio": 0.8446034847500646,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 0.9462240200999109,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "client",
+        "ratio": 0.8530806994911384,
+        "alias": [
+          "clients"
+        ]
+      },
+      {
+        "text": "skill",
+        "ratio": 0.8857218831940323,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "deadlin",
+        "ratio": 0.6418073387255798,
+        "alias": [
+          "deadlines",
+          "deadline"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 0.9324191017771748
+      },
+      {
+        "text": "work",
+        "ratio": 1.1101682354465527,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 0.9581105869640588,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 0.8773400352450611,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "get",
+        "ratio": 1.144737393581959,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "job",
+        "ratio": 0.815253617589999,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "organ",
+        "ratio": 0.7922980936356984,
+        "alias": [
+          "organization",
+          "organic",
+          "organizations",
+          "organized"
+        ]
+      },
+      {
+        "text": "better",
+        "ratio": 0.6796725448672895
+      },
+      {
+        "text": "build",
+        "ratio": 0.815253617589999,
+        "alias": [
+          "building"
+        ]
+      },
+      {
+        "text": "wish",
+        "ratio": 0.661556102920843,
+        "alias": [
+          "wishes"
+        ]
+      },
+      {
+        "text": "make",
+        "ratio": 0.9581105869640588,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "avail",
+        "ratio": 0.8344349911444372,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "realli",
+        "ratio": 0.7386703217030886,
+        "alias": [
+          "really"
+        ]
+      },
+      {
+        "text": "creativ",
+        "ratio": 0.7189813139569983,
+        "alias": [
+          "creative",
+          "creativity"
+        ]
+      },
+      {
+        "text": "analysi",
+        "ratio": 0.8610721326471976,
+        "alias": [
+          "analysis"
+        ]
+      },
+      {
+        "text": "requir",
+        "ratio": 0.9209418189765256,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "engin",
+        "ratio": 0.7902824193681953,
+        "alias": [
+          "engineering",
+          "engineers",
+          "engineer",
+          "engine"
+        ]
+      },
+      {
+        "text": "prototyp",
+        "ratio": 0.6737306123679322,
+        "alias": [
+          "prototyping",
+          "prototype",
+          "prototypes"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 0.9209418189765256,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 0.9428731166262186,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 0.9095947262159549,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "right",
+        "ratio": 0.80566340612427
+      },
+      {
+        "text": "custom",
+        "ratio": 0.80566340612427,
+        "alias": [
+          "customer",
+          "customers",
+          "customization",
+          "customize",
+          "customizing"
+        ]
+      },
+      {
+        "text": "look",
+        "ratio": 0.7902824193681953,
+        "alias": [
+          "looks",
+          "looked"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 0.8860202703824023
+      },
+      {
+        "text": "expect",
+        "ratio": 0.8979631323210792,
+        "alias": [
+          "expectation",
+          "expectations",
+          "expected",
+          "expecting"
+        ]
+      },
+      {
+        "text": "technic",
+        "ratio": 0.7386703217030886,
+        "alias": [
+          "technical",
+          "technically"
+        ]
+      },
+      {
+        "text": "solut",
+        "ratio": 0.756954496502423,
+        "alias": [
+          "solutions",
+          "solution"
+        ]
+      },
+      {
+        "text": "valu",
+        "ratio": 0.9534959900491601,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "hard",
+        "ratio": 0.7740946184164773
+      },
+      {
+        "text": "see",
+        "ratio": 0.7902824193681953,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "process",
+        "ratio": 0.7386703217030886,
+        "alias": [
+          "processing"
+        ]
+      },
+      {
+        "text": "idea",
+        "ratio": 0.8218230178686728,
+        "alias": [
+          "ideas"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 0.8963575662290391,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "larg",
+        "ratio": 0.7999176031128388,
+        "alias": [
+          "large",
+          "largely"
+        ]
+      },
+      {
+        "text": "also",
+        "ratio": 0.7760384732102222
+      },
+      {
+        "text": "dataviz",
+        "ratio": 0.8421654565335733
+      },
+      {
+        "text": "think",
+        "ratio": 0.9283679910903254,
+        "alias": [
+          "thinking"
+        ]
+      },
+      {
+        "text": "amount",
+        "ratio": 0.8218230178686728,
+        "alias": [
+          "amounts"
+        ]
+      },
+      {
+        "text": "librari",
+        "ratio": 0.8612350553846114,
+        "alias": [
+          "library",
+          "libraries"
+        ]
+      },
+      {
+        "text": "test",
+        "ratio": 0.7195400582456157,
+        "alias": [
+          "tested",
+          "testing"
+        ]
+      },
+      {
+        "text": "fit",
+        "ratio": 0.7495729946346482
+      },
+      {
+        "text": "literaci",
+        "ratio": 0.9434474811483654,
+        "alias": [
+          "literacy"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 1.0246129602279765,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "effort",
+        "ratio": 0.7999176031128388,
+        "alias": [
+          "efforts"
+        ]
+      },
+      {
+        "text": "abl",
+        "ratio": 0.9434474811483654,
+        "alias": [
+          "able"
+        ]
+      },
+      {
+        "text": "compani",
+        "ratio": 0.8421654565335733,
+        "alias": [
+          "company"
+        ]
+      },
+      {
+        "text": "reluct",
+        "ratio": 0.7495729946346482,
+        "alias": [
+          "reluctant",
+          "reluctance",
+          "reluctancy"
+        ]
+      },
+      {
+        "text": "manag",
+        "ratio": 1.0119885163556042,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "choic",
+        "ratio": 0.7760384732102222,
+        "alias": [
+          "choice",
+          "choices"
+        ]
+      },
+      {
+        "text": "explain",
+        "ratio": 0.7760384732102222,
+        "alias": [
+          "explaining"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 1.1059630038526307,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "everyth",
+        "ratio": 0.9126984262224714,
+        "alias": [
+          "everything"
+        ]
+      },
+      {
+        "text": "execut",
+        "ratio": 0.7999176031128388,
+        "alias": [
+          "execution",
+          "executives",
+          "execute"
+        ]
+      },
+      {
+        "text": "current",
+        "ratio": 0.7495729946346482,
+        "alias": [
+          "currently"
+        ]
+      },
+      {
+        "text": "small",
+        "ratio": 0.7999176031128388
+      },
+      {
+        "text": "feel",
+        "ratio": 0.9283679910903254,
+        "alias": [
+          "feeling",
+          "feels"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 0.8963575662290391,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "program",
+        "ratio": 0.7999176031128388,
+        "alias": [
+          "programming",
+          "programs"
+        ]
+      },
+      {
+        "text": "decis",
+        "ratio": 0.9126984262224714,
+        "alias": [
+          "decisions",
+          "decision"
+        ]
+      },
+      {
+        "text": "clear",
+        "ratio": 0.7495729946346482
+      },
+      {
+        "text": "integr",
+        "ratio": 0.8218230178686728,
+        "alias": [
+          "integrity",
+          "integrated",
+          "integration",
+          "integrate"
+        ]
+      },
+      {
+        "text": "field",
+        "ratio": 0.7195400582456157,
+        "alias": [
+          "fields"
+        ]
+      },
+      {
+        "text": "try",
+        "ratio": 0.9580036964571272,
+        "alias": [
+          "trying"
+        ]
+      },
+      {
+        "text": "gener",
+        "ratio": 0.8218230178686728,
+        "alias": [
+          "generally",
+          "general",
+          "generation"
+        ]
+      },
+      {
+        "text": "public",
+        "ratio": 0.7195400582456157,
+        "alias": [
+          "publication"
+        ]
+      },
+      {
+        "text": "power",
+        "ratio": 0.8612350553846114,
+        "alias": [
+          "powerful"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 0.9720923108402966,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 0.8792451297573377,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "practic",
+        "ratio": 0.9434474811483654,
+        "alias": [
+          "practices",
+          "practice"
+        ]
+      },
+      {
+        "text": "govern",
+        "ratio": 0.7495729946346482,
+        "alias": [
+          "governance",
+          "government"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 0.9720923108402966,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "access",
+        "ratio": 1.1274303867762334,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "feedback",
+        "ratio": 0.8792451297573377
+      },
+      {
+        "text": "convinc",
+        "ratio": 0.7495729946346482,
+        "alias": [
+          "convince",
+          "convincing"
+        ]
+      },
+      {
+        "text": "best",
+        "ratio": 1.072420902461028
+      },
+      {
+        "text": "often",
+        "ratio": 1.0119885163556042
+      },
+      {
+        "text": "viz",
+        "ratio": 1.1981234498894653
+      },
+      {
+        "text": "good",
+        "ratio": 1.1059630038526307
+      },
+      {
+        "text": "dashboard",
+        "ratio": 0.8963575662290391,
+        "alias": [
+          "dashboards",
+          "dashboarding"
+        ]
+      },
+      {
+        "text": "alwai",
+        "ratio": 1.0705675904758813,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.9878345548537226
+      },
+      {
+        "text": "number",
+        "ratio": 0.8792264034825928
+      },
+      {
+        "text": "graph",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "graphs"
+        ]
+      },
+      {
+        "text": "mostli",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "mostly"
+        ]
+      },
+      {
+        "text": "project",
+        "ratio": 1.201839946784624,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "wrangl",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "wrangling",
+          "wrangle"
+        ]
+      },
+      {
+        "text": "implement",
+        "ratio": 1.0102026163149365,
+        "alias": [
+          "implementation",
+          "implementing"
+        ]
+      },
+      {
+        "text": "softwar",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "software"
+        ]
+      },
+      {
+        "text": "budget",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "budgets"
+        ]
+      },
+      {
+        "text": "person",
+        "ratio": 0.9878345548537226,
+        "alias": [
+          "personal",
+          "personally"
+        ]
+      },
+      {
+        "text": "gain",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "gaining"
+        ]
+      },
+      {
+        "text": "due",
+        "ratio": 0.9102696076948646
+      },
+      {
+        "text": "format",
+        "ratio": 0.9102696076948646,
+        "alias": [
+          "formats",
+          "formatting"
+        ]
+      },
+      {
+        "text": "clean",
+        "ratio": 1.1237092992785562,
+        "alias": [
+          "cleaning",
+          "cleaned"
+        ]
+      },
+      {
+        "text": "complet",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "complete",
+          "completing",
+          "completeness"
+        ]
+      },
+      {
+        "text": "meet",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "meeting",
+          "meetings"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 0.9639734908700563
+      },
+      {
+        "text": "opportun",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "opportunities"
+        ]
+      },
+      {
+        "text": "static",
+        "ratio": 0.8439986793831927
+      },
+      {
+        "text": "everi",
+        "ratio": 0.9102696076948646,
+        "alias": [
+          "every"
+        ]
+      },
+      {
+        "text": "stori",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "story",
+          "stories"
+        ]
+      },
+      {
+        "text": "frustrat",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "frustrating",
+          "frustration"
+        ]
+      },
+      {
+        "text": "innov",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "innovate",
+          "innovative",
+          "innovation"
+        ]
+      },
+      {
+        "text": "prioriti",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "part",
+        "ratio": 1.0102026163149365,
+        "alias": [
+          "parts"
+        ]
+      },
+      {
+        "text": "els",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "else"
+        ]
+      },
+      {
+        "text": "bui",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "buy"
+        ]
+      },
+      {
+        "text": "web",
+        "ratio": 0.9382791033048345
+      },
+      {
+        "text": "platform",
+        "ratio": 0.9382791033048345
+      },
+      {
+        "text": "expertis",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "expertise"
+        ]
+      },
+      {
+        "text": "focu",
+        "ratio": 1.0705675904758813,
+        "alias": [
+          "focus"
+        ]
+      },
+      {
+        "text": "without",
+        "ratio": 0.8439986793831927
+      },
+      {
+        "text": "base",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "based"
+        ]
+      },
+      {
+        "text": "put",
+        "ratio": 0.8792264034825928
+      },
+      {
+        "text": "inform",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "information",
+          "informative"
+        ]
+      },
+      {
+        "text": "collect",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "collection"
+        ]
+      },
+      {
+        "text": "experi",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "experience",
+          "experimenting",
+          "experiment"
+        ]
+      },
+      {
+        "text": "collabor",
+        "ratio": 0.9878345548537226,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "expert",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "experts"
+        ]
+      },
+      {
+        "text": "outsid",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "outside"
+        ]
+      },
+      {
+        "text": "invest",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "investing",
+          "investment"
+        ]
+      },
+      {
+        "text": "actual",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "actually"
+        ]
+      },
+      {
+        "text": "applic",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "applications",
+          "applicable",
+          "application"
+        ]
+      },
+      {
+        "text": "start",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "starting",
+          "started",
+          "starts"
+        ]
+      },
+      {
+        "text": "far",
+        "ratio": 0.9102696076948646
+      },
+      {
+        "text": "term",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "terms"
+        ]
+      },
+      {
+        "text": "less",
+        "ratio": 1.0705675904758813
+      },
+      {
+        "text": "dataset",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "datasets"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 1.1066352999137858
+      },
+      {
+        "text": "around",
+        "ratio": 0.9639734908700563
+      },
+      {
+        "text": "come",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "coming"
+        ]
+      },
+      {
+        "text": "littl",
+        "ratio": 1.1237092992785562,
+        "alias": [
+          "little"
+        ]
+      },
+      {
+        "text": "tabl",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "tables",
+          "table"
+        ]
+      },
+      {
+        "text": "prepar",
+        "ratio": 0.9382791033048345,
+        "alias": [
+          "preparation",
+          "prepared",
+          "preparing"
+        ]
+      },
+      {
+        "text": "qualiti",
+        "ratio": 0.9639734908700563,
+        "alias": [
+          "quality"
+        ]
+      },
+      {
+        "text": "document",
+        "ratio": 0.9102696076948646,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "sourc",
+        "ratio": 1.0313278876768062,
+        "alias": [
+          "sources",
+          "sourcing",
+          "source"
+        ]
+      },
+      {
+        "text": "within",
+        "ratio": 0.8792264034825928
+      },
+      {
+        "text": "peer",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "peers"
+        ]
+      },
+      {
+        "text": "pretti",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "pretty"
+        ]
+      },
+      {
+        "text": "effect",
+        "ratio": 1.0102026163149365,
+        "alias": [
+          "effective",
+          "effects",
+          "effectiveness",
+          "effectively"
+        ]
+      },
+      {
+        "text": "comput",
+        "ratio": 0.8792264034825928,
+        "alias": [
+          "computer",
+          "computation",
+          "computers"
+        ]
+      },
+      {
+        "text": "scientist",
+        "ratio": 0.8439986793831927,
+        "alias": [
+          "scientists"
+        ]
+      },
+      {
+        "text": "appreci",
+        "ratio": 0.9878345548537226,
+        "alias": [
+          "appreciation",
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciates"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 1.1402348169303824,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "option",
+        "ratio": 1.0514002569877787,
+        "alias": [
+          "options"
+        ]
+      }
+    ],
+    "Scientist": [
+      {
+        "text": "data",
+        "ratio": 0.9980658389615366
+      },
+      {
+        "text": "time",
+        "ratio": 1.0185650565987936,
+        "alias": [
+          "times",
+          "timely",
+          "timing"
+        ]
+      },
+      {
+        "text": "visual",
+        "ratio": 1.0373958483223433,
+        "alias": [
+          "visualizations",
+          "visualization",
+          "visualized",
+          "visuals",
+          "visualize",
+          "visually",
+          "visualizing"
+        ]
+      },
+      {
+        "text": "lack",
+        "ratio": 1.108848153743504,
+        "alias": [
+          "lacks",
+          "lacking"
+        ]
+      },
+      {
+        "text": "tool",
+        "ratio": 0.9888706903494565,
+        "alias": [
+          "tools",
+          "tooling"
+        ]
+      },
+      {
+        "text": "enough",
+        "ratio": 0.9688838832427704
+      },
+      {
+        "text": "make",
+        "ratio": 0.7923598254277937,
+        "alias": [
+          "making",
+          "makes"
+        ]
+      },
+      {
+        "text": "work",
+        "ratio": 0.9791849731478179,
+        "alias": [
+          "working",
+          "worked"
+        ]
+      },
+      {
+        "text": "valu",
+        "ratio": 0.7738270213679697,
+        "alias": [
+          "valued",
+          "value",
+          "values"
+        ]
+      },
+      {
+        "text": "python",
+        "ratio": 0.6413680781055342,
+        "alias": [
+          "pythonic"
+        ]
+      },
+      {
+        "text": "limit",
+        "ratio": 0.9791849731478179,
+        "alias": [
+          "limited",
+          "limitations",
+          "limits",
+          "limitation",
+          "limiting"
+        ]
+      },
+      {
+        "text": "often",
+        "ratio": 0.7945495209387633
+      },
+      {
+        "text": "well",
+        "ratio": 0.7632255380405987
+      },
+      {
+        "text": "get",
+        "ratio": 1.0867504512961996,
+        "alias": [
+          "getting",
+          "gets"
+        ]
+      },
+      {
+        "text": "commun",
+        "ratio": 0.7632255380405987,
+        "alias": [
+          "communication",
+          "communicating",
+          "community",
+          "communications",
+          "communicate"
+        ]
+      },
+      {
+        "text": "look",
+        "ratio": 0.6903277906277645,
+        "alias": [
+          "looks",
+          "looked"
+        ]
+      },
+      {
+        "text": "good",
+        "ratio": 0.8683323582086191
+      },
+      {
+        "text": "access",
+        "ratio": 0.8851871925689765,
+        "alias": [
+          "accessing",
+          "accessible"
+        ]
+      },
+      {
+        "text": "long",
+        "ratio": 0.6903277906277645
+      },
+      {
+        "text": "like",
+        "ratio": 0.8683323582086191
+      },
+      {
+        "text": "viz",
+        "ratio": 1.0267028984452526
+      },
+      {
+        "text": "requir",
+        "ratio": 0.878017282899926,
+        "alias": [
+          "requirements",
+          "require",
+          "required",
+          "requires"
+        ]
+      },
+      {
+        "text": "understand",
+        "ratio": 1.2278669535550624,
+        "alias": [
+          "understanding",
+          "understands"
+        ]
+      },
+      {
+        "text": "easi",
+        "ratio": 0.6854700337507784,
+        "alias": [
+          "easy"
+        ]
+      },
+      {
+        "text": "librari",
+        "ratio": 0.7380145407283486,
+        "alias": [
+          "library",
+          "libraries"
+        ]
+      },
+      {
+        "text": "thing",
+        "ratio": 0.9383104901532959,
+        "alias": [
+          "things"
+        ]
+      },
+      {
+        "text": "learn",
+        "ratio": 1.1861173623067505,
+        "alias": [
+          "learning"
+        ]
+      },
+      {
+        "text": "new",
+        "ratio": 0.9661241886261398
+      },
+      {
+        "text": "skill",
+        "ratio": 0.9839908896483264,
+        "alias": [
+          "skills",
+          "skilled"
+        ]
+      },
+      {
+        "text": "wai",
+        "ratio": 0.768111926509401,
+        "alias": [
+          "ways",
+          "way"
+        ]
+      },
+      {
+        "text": "design",
+        "ratio": 1.2818519724591566,
+        "alias": [
+          "designing",
+          "designer",
+          "designers",
+          "designs"
+        ]
+      },
+      {
+        "text": "audienc",
+        "ratio": 0.878017282899926,
+        "alias": [
+          "audience",
+          "audiences"
+        ]
+      },
+      {
+        "text": "fit",
+        "ratio": 0.718170822010284
+      },
+      {
+        "text": "proper",
+        "ratio": 0.7664063229066189
+      },
+      {
+        "text": "stakehold",
+        "ratio": 1.0491007003882438,
+        "alias": [
+          "stakeholders",
+          "stakeholder"
+        ]
+      },
+      {
+        "text": "support",
+        "ratio": 0.969592861346765,
+        "alias": [
+          "supportive"
+        ]
+      },
+      {
+        "text": "know",
+        "ratio": 1.1099618137464116,
+        "alias": [
+          "knows",
+          "knowing"
+        ]
+      },
+      {
+        "text": "explor",
+        "ratio": 0.957194031316743,
+        "alias": [
+          "explore",
+          "explored",
+          "exploring",
+          "exploration"
+        ]
+      },
+      {
+        "text": "team",
+        "ratio": 0.9039232441799794,
+        "alias": [
+          "teaming",
+          "teams"
+        ]
+      },
+      {
+        "text": "small",
+        "ratio": 0.7664063229066189
+      },
+      {
+        "text": "interest",
+        "ratio": 0.8251549776964827,
+        "alias": [
+          "interested",
+          "interesting"
+        ]
+      },
+      {
+        "text": "complex",
+        "ratio": 0.8424105485472329,
+        "alias": [
+          "complexity"
+        ]
+      },
+      {
+        "text": "differ",
+        "ratio": 0.9313680441306844,
+        "alias": [
+          "different",
+          "differently",
+          "differing"
+        ]
+      },
+      {
+        "text": "product",
+        "ratio": 0.9178696499182858,
+        "alias": [
+          "products",
+          "production"
+        ]
+      },
+      {
+        "text": "problem",
+        "ratio": 0.7873940450287873,
+        "alias": [
+          "problems"
+        ]
+      },
+      {
+        "text": "due",
+        "ratio": 0.7435275713056341
+      },
+      {
+        "text": "consum",
+        "ratio": 0.6893960678925654,
+        "alias": [
+          "consumed",
+          "consumers",
+          "consuming"
+        ]
+      },
+      {
+        "text": "larg",
+        "ratio": 0.7664063229066189,
+        "alias": [
+          "large",
+          "largely"
+        ]
+      },
+      {
+        "text": "amount",
+        "ratio": 0.7873940450287873,
+        "alias": [
+          "amounts"
+        ]
+      },
+      {
+        "text": "part",
+        "ratio": 0.8251549776964827,
+        "alias": [
+          "parts"
+        ]
+      },
+      {
+        "text": "basic",
+        "ratio": 0.7664063229066189,
+        "alias": [
+          "basically"
+        ]
+      },
+      {
+        "text": "chart",
+        "ratio": 1.0596304366287161,
+        "alias": [
+          "charts"
+        ]
+      },
+      {
+        "text": "allow",
+        "ratio": 0.718170822010284,
+        "alias": [
+          "allowed",
+          "allows"
+        ]
+      },
+      {
+        "text": "need",
+        "ratio": 1.17532581872398,
+        "alias": [
+          "needed",
+          "needing",
+          "needs"
+        ]
+      },
+      {
+        "text": "appreci",
+        "ratio": 0.8068842694662167,
+        "alias": [
+          "appreciation",
+          "appreciating",
+          "appreciate",
+          "appreciated",
+          "appreciates"
+        ]
+      },
+      {
+        "text": "care",
+        "ratio": 0.7664063229066189,
+        "alias": [
+          "caring",
+          "cares"
+        ]
+      },
+      {
+        "text": "difficult",
+        "ratio": 0.7435275713056341
+      },
+      {
+        "text": "scientist",
+        "ratio": 0.6893960678925654,
+        "alias": [
+          "scientists"
+        ]
+      },
+      {
+        "text": "never",
+        "ratio": 0.6893960678925654
+      },
+      {
+        "text": "custom",
+        "ratio": 0.8588060866141701,
+        "alias": [
+          "customer",
+          "customers",
+          "customization",
+          "customize",
+          "customizing"
+        ]
+      },
+      {
+        "text": "result",
+        "ratio": 0.8068842694662167,
+        "alias": [
+          "results"
+        ]
+      },
+      {
+        "text": "much",
+        "ratio": 0.9444634015691802
+      },
+      {
+        "text": "plot",
+        "ratio": 0.718170822010284,
+        "alias": [
+          "plots"
+        ]
+      },
+      {
+        "text": "less",
+        "ratio": 0.8744623721765367
+      },
+      {
+        "text": "also",
+        "ratio": 0.7435275713056341
+      },
+      {
+        "text": "take",
+        "ratio": 0.9935056238274068,
+        "alias": [
+          "takes"
+        ]
+      },
+      {
+        "text": "want",
+        "ratio": 1.1931461145558895,
+        "alias": [
+          "wants",
+          "wanting",
+          "wanted"
+        ]
+      },
+      {
+        "text": "consist",
+        "ratio": 0.7664063229066189,
+        "alias": [
+          "consistent",
+          "consistency"
+        ]
+      },
+      {
+        "text": "gener",
+        "ratio": 0.7873940450287873,
+        "alias": [
+          "generally",
+          "general",
+          "generation"
+        ]
+      },
+      {
+        "text": "alloc",
+        "ratio": 0.718170822010284,
+        "alias": [
+          "allocated",
+          "allocate",
+          "allocation"
+        ]
+      },
+      {
+        "text": "given",
+        "ratio": 0.7435275713056341
+      },
+      {
+        "text": "chang",
+        "ratio": 0.8894754854586864,
+        "alias": [
+          "changing",
+          "change",
+          "changed",
+          "changes"
+        ]
+      },
+      {
+        "text": "compani",
+        "ratio": 0.8068842694662167,
+        "alias": [
+          "company"
+        ]
+      },
+      {
+        "text": "power",
+        "ratio": 0.8251549776964827,
+        "alias": [
+          "powerful"
+        ]
+      },
+      {
+        "text": "find",
+        "ratio": 0.981688424151377,
+        "alias": [
+          "finding"
+        ]
+      },
+      {
+        "text": "research",
+        "ratio": 0.8068842694662167,
+        "alias": [
+          "researchers"
+        ]
+      },
+      {
+        "text": "hard",
+        "ratio": 0.8251549776964827
+      },
+      {
+        "text": "behind",
+        "ratio": 0.718170822010284
+      },
+      {
+        "text": "program",
+        "ratio": 0.7664063229066189,
+        "alias": [
+          "programming",
+          "programs"
+        ]
+      },
+      {
+        "text": "code",
+        "ratio": 0.9313680441306844,
+        "alias": [
+          "coding"
+        ]
+      },
+      {
+        "text": "free",
+        "ratio": 0.718170822010284
+      },
+      {
+        "text": "attent",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "attention"
+        ]
+      },
+      {
+        "text": "prioriti",
+        "ratio": 0.9295445180301707,
+        "alias": [
+          "priority",
+          "priorities"
+        ]
+      },
+      {
+        "text": "explain",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "explaining"
+        ]
+      },
+      {
+        "text": "import",
+        "ratio": 0.9525533677863659,
+        "alias": [
+          "importance",
+          "important"
+        ]
+      },
+      {
+        "text": "dirti",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "dirty"
+        ]
+      },
+      {
+        "text": "peopl",
+        "ratio": 1.498991003480345,
+        "alias": [
+          "people"
+        ]
+      },
+      {
+        "text": "see",
+        "ratio": 0.9944933064667012,
+        "alias": [
+          "seeing"
+        ]
+      },
+      {
+        "text": "unless",
+        "ratio": 0.8138546890301424
+      },
+      {
+        "text": "etc",
+        "ratio": 0.8478242308582286
+      },
+      {
+        "text": "tableau",
+        "ratio": 1.129998975886525
+      },
+      {
+        "text": "javascript",
+        "ratio": 0.8138546890301424
+      },
+      {
+        "text": "job",
+        "ratio": 1.1149700495596995,
+        "alias": [
+          "jobs"
+        ]
+      },
+      {
+        "text": "develop",
+        "ratio": 1.1998816582618919,
+        "alias": [
+          "developing",
+          "developers",
+          "developer",
+          "development",
+          "developed",
+          "developments"
+        ]
+      },
+      {
+        "text": "put",
+        "ratio": 0.8478242308582286
+      },
+      {
+        "text": "wrangl",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "wrangling",
+          "wrangle"
+        ]
+      },
+      {
+        "text": "technic",
+        "ratio": 0.9295445180301707,
+        "alias": [
+          "technical",
+          "technically"
+        ]
+      },
+      {
+        "text": "abil",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "abilities",
+          "ability"
+        ]
+      },
+      {
+        "text": "innov",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "innovate",
+          "innovative",
+          "innovation"
+        ]
+      },
+      {
+        "text": "still",
+        "ratio": 1.0671110629454
+      },
+      {
+        "text": "static",
+        "ratio": 0.8138546890301424
+      },
+      {
+        "text": "actual",
+        "ratio": 0.9047678230986147,
+        "alias": [
+          "actually"
+        ]
+      },
+      {
+        "text": "project",
+        "ratio": 1.1589154107080242,
+        "alias": [
+          "projects"
+        ]
+      },
+      {
+        "text": "comput",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "computer",
+          "computation",
+          "computers"
+        ]
+      },
+      {
+        "text": "document",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "documentation"
+        ]
+      },
+      {
+        "text": "yet",
+        "ratio": 0.8478242308582286
+      },
+      {
+        "text": "alwai",
+        "ratio": 1.0323315364299466,
+        "alias": [
+          "always"
+        ]
+      },
+      {
+        "text": "graphic",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "graphics"
+        ]
+      },
+      {
+        "text": "softwar",
+        "ratio": 0.9295445180301707,
+        "alias": [
+          "software"
+        ]
+      },
+      {
+        "text": "collabor",
+        "ratio": 0.9525533677863659,
+        "alias": [
+          "collaborations",
+          "collaborate",
+          "collaborators",
+          "collaborative",
+          "collaboration"
+        ]
+      },
+      {
+        "text": "right",
+        "ratio": 1.0138487773729097
+      },
+      {
+        "text": "dataset",
+        "ratio": 0.8138546890301424,
+        "alias": [
+          "datasets"
+        ]
+      },
+      {
+        "text": "without",
+        "ratio": 0.8138546890301424
+      },
+      {
+        "text": "far",
+        "ratio": 0.8777587057902765
+      },
+      {
+        "text": "come",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "coming"
+        ]
+      },
+      {
+        "text": "standard",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "standards",
+          "standardization"
+        ]
+      },
+      {
+        "text": "understood",
+        "ratio": 0.8478242308582286
+      },
+      {
+        "text": "manag",
+        "ratio": 1.1446362017547667,
+        "alias": [
+          "manager",
+          "management",
+          "managers",
+          "managing"
+        ]
+      },
+      {
+        "text": "graph",
+        "ratio": 0.9047678230986147,
+        "alias": [
+          "graphs"
+        ]
+      },
+      {
+        "text": "beyond",
+        "ratio": 0.8138546890301424
+      },
+      {
+        "text": "avail",
+        "ratio": 1.050055009496698,
+        "alias": [
+          "available",
+          "availability"
+        ]
+      },
+      {
+        "text": "resourc",
+        "ratio": 1.050055009496698,
+        "alias": [
+          "resources",
+          "resource"
+        ]
+      },
+      {
+        "text": "platform",
+        "ratio": 0.9047678230986147
+      },
+      {
+        "text": "share",
+        "ratio": 0.8138546890301424,
+        "alias": [
+          "shared",
+          "sharing"
+        ]
+      },
+      {
+        "text": "improv",
+        "ratio": 1.0138487773729097,
+        "alias": [
+          "improve",
+          "improvements",
+          "improvement"
+        ]
+      },
+      {
+        "text": "budget",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "budgets"
+        ]
+      },
+      {
+        "text": "lot",
+        "ratio": 1.0995105502207703,
+        "alias": [
+          "lots"
+        ]
+      },
+      {
+        "text": "integr",
+        "ratio": 0.9295445180301707,
+        "alias": [
+          "integrity",
+          "integrated",
+          "integration",
+          "integrate"
+        ]
+      },
+      {
+        "text": "prep",
+        "ratio": 1.0835752527397147,
+        "alias": [
+          "prepping"
+        ]
+      },
+      {
+        "text": "dedic",
+        "ratio": 0.9047678230986147,
+        "alias": [
+          "dedicated",
+          "dedicate"
+        ]
+      },
+      {
+        "text": "sometim",
+        "ratio": 1.0995105502207703,
+        "alias": [
+          "sometimes",
+          "sometime"
+        ]
+      },
+      {
+        "text": "consid",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "considered",
+          "considering",
+          "consider"
+        ]
+      },
+      {
+        "text": "present",
+        "ratio": 0.9741225386268078,
+        "alias": [
+          "presenting",
+          "presentations",
+          "presentation",
+          "presented"
+        ]
+      },
+      {
+        "text": "bad",
+        "ratio": 0.9295445180301707
+      },
+      {
+        "text": "low",
+        "ratio": 0.9741225386268078
+      },
+      {
+        "text": "engin",
+        "ratio": 0.9944933064667012,
+        "alias": [
+          "engineering",
+          "engineers",
+          "engineer",
+          "engine"
+        ]
+      },
+      {
+        "text": "slow",
+        "ratio": 0.9047678230986147,
+        "alias": [
+          "slows",
+          "slowness"
+        ]
+      },
+      {
+        "text": "format",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "formats",
+          "formatting"
+        ]
+      },
+      {
+        "text": "option",
+        "ratio": 1.0138487773729097,
+        "alias": [
+          "options"
+        ]
+      },
+      {
+        "text": "iter",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "iteration",
+          "iterations",
+          "iterative",
+          "iterate"
+        ]
+      },
+      {
+        "text": "anyon",
+        "ratio": 0.8138546890301424,
+        "alias": [
+          "anyone"
+        ]
+      },
+      {
+        "text": "abl",
+        "ratio": 1.0671110629454,
+        "alias": [
+          "able"
+        ]
+      },
+      {
+        "text": "usual",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "usually"
+        ]
+      },
+      {
+        "text": "focu",
+        "ratio": 1.0323315364299466,
+        "alias": [
+          "focus"
+        ]
+      },
+      {
+        "text": "done",
+        "ratio": 0.9525533677863659
+      },
+      {
+        "text": "creat",
+        "ratio": 1.1149700495596995,
+        "alias": [
+          "creating",
+          "create",
+          "created"
+        ]
+      },
+      {
+        "text": "interact",
+        "ratio": 1.1149700495596995,
+        "alias": [
+          "interactive",
+          "interactivity",
+          "interaction",
+          "interactions"
+        ]
+      },
+      {
+        "text": "shini",
+        "ratio": 0.8138546890301424,
+        "alias": [
+          "shiny"
+        ]
+      },
+      {
+        "text": "meet",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "meeting",
+          "meetings"
+        ]
+      },
+      {
+        "text": "within",
+        "ratio": 0.8478242308582286
+      },
+      {
+        "text": "mani",
+        "ratio": 1.225856473376532,
+        "alias": [
+          "many"
+        ]
+      },
+      {
+        "text": "someth",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "something"
+        ]
+      },
+      {
+        "text": "restrict",
+        "ratio": 0.9047678230986147,
+        "alias": [
+          "restrictions",
+          "restriction",
+          "restrictive",
+          "restricted"
+        ]
+      },
+      {
+        "text": "everi",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "every"
+        ]
+      },
+      {
+        "text": "fund",
+        "ratio": 0.9295445180301707,
+        "alias": [
+          "funds",
+          "funding"
+        ]
+      },
+      {
+        "text": "feel",
+        "ratio": 1.050055009496698,
+        "alias": [
+          "feeling",
+          "feels"
+        ]
+      },
+      {
+        "text": "technolog",
+        "ratio": 0.8138546890301424,
+        "alias": [
+          "technology",
+          "technologies",
+          "technological"
+        ]
+      },
+      {
+        "text": "collect",
+        "ratio": 0.8478242308582286,
+        "alias": [
+          "collection"
+        ]
+      },
+      {
+        "text": "deadlin",
+        "ratio": 0.8777587057902765,
+        "alias": [
+          "deadlines",
+          "deadline"
+        ]
+      },
+      {
+        "text": "user",
+        "ratio": 1.1865138086733813,
+        "alias": [
+          "users"
+        ]
+      },
+      {
+        "text": "board",
+        "ratio": 0.8138546890301424
+      }
+    ]
+  }
