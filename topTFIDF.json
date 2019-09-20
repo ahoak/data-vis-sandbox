@@ -1,0 +1,153 @@
+[
+  {
+    "role": "total",
+    "weights": [
+      { "text": "data", "weight": 1.357170649397922 },
+      { "text": "time", "weight": 1.5088552367299872 },
+      { "text": "lack", "weight": 1.9251546870038618 },
+      { "text": "visual", "weight": 2.057752808445386 },
+      { "text": "tool", "weight": 2.2551122426038805 },
+      { "text": "enough", "weight": 2.301632258238774 },
+      { "text": "design", "weight": 2.678926489380242 },
+      { "text": "understand", "weight": 2.7967095250366256 },
+      { "text": "learn", "weight": 2.895149597849878 },
+      { "text": "get", "weight": 2.895149597849878 }
+    ]
+  },
+  {
+    "role": "Academic",
+    "weights": [
+      { "text": "time", "weight": 1.4000876832522264 },
+      { "text": "data", "weight": 1.7255100836868542 },
+      { "text": "lack", "weight": 1.7255100836868542 },
+      { "text": "visual", "weight": 1.987874348154345 },
+      { "text": "learn", "weight": 2.211017899468555 },
+      { "text": "tool", "weight": 2.211017899468555 },
+      { "text": "enough", "weight": 2.3445492920930775 },
+      { "text": "need", "weight": 2.3445492920930775 },
+      { "text": "peopl", "weight": 2.498699971920336 },
+      { "text": "design", "weight": 2.6810215287142904 }
+    ]
+  },
+  {
+    "role": "Leadership (Manager, Director, VP, etc)",
+    "weights": [
+      { "text": "time", "weight": 1.32004497557869 },
+      { "text": "data", "weight": 1.4282585602189228 },
+      { "text": "lack", "weight": 1.6163107917218622 },
+      { "text": "enough", "weight": 2.039167642541896 },
+      { "text": "tool", "weight": 2.2755564206061263 },
+      { "text": "visual", "weight": 2.498699971920336 },
+      { "text": "design", "weight": 2.6810215287142904 },
+      { "text": "understand", "weight": 2.6810215287142904 },
+      { "text": "limit", "weight": 2.9041650800285006 },
+      { "text": "viz", "weight": 2.9041650800285006 }
+    ]
+  },
+  {
+    "role": "Developer",
+    "weights": [
+      { "text": "time", "weight": 1.4954936530848824 },
+      { "text": "data", "weight": 1.6625477377480484 },
+      { "text": "lack", "weight": 1.8632184332102 },
+      { "text": "visual", "weight": 2.1886408336448278 },
+      { "text": "design", "weight": 2.355694918307994 },
+      { "text": "enough", "weight": 2.556365613770145 },
+      { "text": "work", "weight": 2.6741486494265287 },
+      { "text": "get", "weight": 2.6741486494265287 },
+      { "text": "tool", "weight": 2.807680042051051 },
+      { "text": "littl", "weight": 2.9618307218783095 }
+    ]
+  },
+  {
+    "role": "Analyst",
+    "weights": [
+      { "text": "data", "weight": 1.2484245668967704 },
+      { "text": "time", "weight": 1.5668782980153049 },
+      { "text": "visual", "weight": 1.9315214116032142 },
+      { "text": "lack", "weight": 1.9517241189207337 },
+      { "text": "tool", "weight": 2.3778085142316336 },
+      { "text": "enough", "weight": 2.409557212546214 },
+      { "text": "get", "weight": 2.6246685921631596 },
+      { "text": "understand", "weight": 2.7080502011022105 },
+      { "text": "learn", "weight": 2.7080502011022105 },
+      { "text": "design", "weight": 2.9531726591351957 }
+    ]
+  },
+  {
+    "role": "None of these describe my role",
+    "weights": [
+      { "text": "data", "weight": 1.4508328822574614 },
+      { "text": "time", "weight": 1.5939337258981348 },
+      { "text": "visual", "weight": 1.961658506023452 },
+      { "text": "tool", "weight": 1.961658506023452 },
+      { "text": "work", "weight": 2.0794415416798357 },
+      { "text": "limit", "weight": 2.3671236141316165 },
+      { "text": "understand", "weight": 2.3671236141316165 },
+      { "text": "viz", "weight": 2.549445170925571 },
+      { "text": "enough", "weight": 2.549445170925571 },
+      { "text": "know", "weight": 2.7725887222397807 }
+    ]
+  },
+  {
+    "role": "Student",
+    "weights": [
+      { "text": "lack", "weight": 1.5404450409471488 },
+      { "text": "time", "weight": 1.5404450409471488 },
+      { "text": "data", "weight": 1.9459101490553132 },
+      { "text": "enough", "weight": 1.9459101490553132 },
+      { "text": "visual", "weight": 2.2335922215070942 },
+      { "text": "learn", "weight": 2.6390573296152584 },
+      { "text": "explor", "weight": 2.6390573296152584 },
+      { "text": "want", "weight": 2.6390573296152584 },
+      { "text": "tool", "weight": 2.6390573296152584 },
+      { "text": "experi", "weight": 2.6390573296152584 }
+    ]
+  },
+  {
+    "role": "Engineer",
+    "weights": [
+      { "text": "data", "weight": 1.1108823812599242 },
+      { "text": "time", "weight": 1.2712250313351037 },
+      { "text": "visual", "weight": 2.1041341542702074 },
+      { "text": "enough", "weight": 2.209494669928034 },
+      { "text": "tool", "weight": 2.3272777055844176 },
+      { "text": "lack", "weight": 2.46080909820894 },
+      { "text": "design", "weight": 2.46080909820894 },
+      { "text": "good", "weight": 2.6149597780361984 },
+      { "text": "need", "weight": 2.6149597780361984 },
+      { "text": "develop", "weight": 2.797281334830153 }
+    ]
+  },
+  {
+    "role": "Designer",
+    "weights": [
+      { "text": "data", "weight": 1.2664931613072703 },
+      { "text": "tool", "weight": 1.7560413866259763 },
+      { "text": "lack", "weight": 1.810108607896252 },
+      { "text": "visual", "weight": 1.9278916435526354 },
+      { "text": "time", "weight": 1.9924301646902065 },
+      { "text": "design", "weight": 2.215573716004416 },
+      { "text": "enough", "weight": 2.302585092994046 },
+      { "text": "understand", "weight": 2.3978952727983707 },
+      { "text": "limit", "weight": 2.754570216737103 },
+      { "text": "code", "weight": 2.754570216737103 }
+    ]
+  },
+  {
+    "role": "Scientist",
+    "weights": [
+      { "text": "data", "weight": 1.3545456628053105 },
+      { "text": "time", "weight": 1.5368672195992654 },
+      { "text": "visual", "weight": 2.1347042203548856 },
+      { "text": "lack", "weight": 2.1347042203548856 },
+      { "text": "tool", "weight": 2.2300144001592104 },
+      { "text": "enough", "weight": 2.2300144001592104 },
+      { "text": "make", "weight": 2.7408400239252013 },
+      { "text": "work", "weight": 2.9231615807191558 },
+      { "text": "valu", "weight": 2.9231615807191558 },
+      { "text": "python", "weight": 2.9231615807191558 }
+    ]
+  },
+  { "role": "Freelancer", "weights": [] }
+]
